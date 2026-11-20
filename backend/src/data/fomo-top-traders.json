@@ -1,0 +1,4256 @@
+{
+  "generatedAt": "2026-11-15T08:45:15.119Z",
+  "source": "fomoapi.io /v2/leaderboard (30d, 7d, all, 24h)",
+  "traders": [
+    {
+      "rank": 1,
+      "userId": "30d4f0d1-e895-524c-b45e-ec67c29ce1a8",
+      "handle": "leo",
+      "displayName": "leo",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/fe6fce6f5cb604fa59c87b1d6c5aad24_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 466557,
+      "pnl7dUsd": 392147,
+      "pnlAllUsd": 1819900,
+      "volumeUsd": 28166098,
+      "trades": 2623,
+      "followers": 151599,
+      "wallets": {
+        "solana": "9LF3d3fxAbeabsxn2GLzMKqNbS1MUMtKvMcNLjTPbDNo",
+        "evm": "0x5b850e8a2dd74e0ff872a53c1b1b5d82b74a60c8"
+      }
+    },
+    {
+      "rank": 2,
+      "userId": "f75d4889-0c28-50c6-a3eb-f344a4f89626",
+      "handle": "joecroskey",
+      "displayName": "jœ",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/3c1038dab80c02e97271786aaea9fe5a_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 350720,
+      "pnl7dUsd": 336560,
+      "pnlAllUsd": 350720,
+      "volumeUsd": 477330,
+      "trades": 41,
+      "followers": 41732,
+      "wallets": {
+        "solana": "8bXzTJq3sNkzD8T1mXVCaMvg1D3CL1heYJBgSPM8WVow",
+        "evm": null
+      }
+    },
+    {
+      "rank": 3,
+      "userId": "9b455569-30d8-5815-9dab-de8544022ee3",
+      "handle": "G41T3R98",
+      "displayName": "G4",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/5cd156c31605446e4bc4036af5f0d499_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 263125,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 390945,
+      "trades": 264,
+      "followers": 63649,
+      "wallets": {
+        "solana": "4t5cayg6FDWkyQwyuYq9DqcRRCQ7e6JXyf9J7f2wfZQW",
+        "evm": "0x88793e54fef9b3150e024c2f9e8fd19c89ad34d5"
+      }
+    },
+    {
+      "rank": 4,
+      "userId": "347f6d53-5824-5249-a880-b916e0ddb1ba",
+      "handle": "bronbroncore",
+      "displayName": "bron",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/89e1992ffee8447ffa8583283835a534_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 249904,
+      "pnl7dUsd": 375792,
+      "pnlAllUsd": null,
+      "volumeUsd": 512018,
+      "trades": 318,
+      "followers": 48263,
+      "wallets": {
+        "solana": "2EJPiGHWCddwUnoWoRHD3dfycjQwDV9iQceshn2HDpht",
+        "evm": "0x9f2a2e45c0db21d4ab9cdc454472f3282c6c0080"
+      }
+    },
+    {
+      "rank": 5,
+      "userId": "97ddf5a2-7ae4-518f-8f80-3de21dabbb05",
+      "handle": "peptidezz",
+      "displayName": "peptidezz.io",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/44db806948a398fd279eb14da08c1888_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 240167,
+      "pnl7dUsd": 251917,
+      "pnlAllUsd": null,
+      "volumeUsd": 81153,
+      "trades": 59,
+      "followers": 6400,
+      "wallets": {
+        "solana": "6oNw1hUyhPbo7MbPBf9B6JN5GyGE3PCcF2TqLmYXq1kA",
+        "evm": "0x603351dc1d59709d75f230e2fef348d069db520a"
+      }
+    },
+    {
+      "rank": 6,
+      "userId": "7a89b116-48f6-58fd-b10f-9388d03a9489",
+      "handle": "0xbr9",
+      "displayName": "Bobby",
+      "avatar": "",
+      "pnl30dUsd": 178818,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 461332,
+      "volumeUsd": 2163646,
+      "trades": 171,
+      "followers": 22779,
+      "wallets": {
+        "solana": "Csa8eosaYKB6KHd51NQvh931jXbmZkBqNqPaQy1qet9Z",
+        "evm": "0x80e9179c37ef8e4e9727aec19b2ac312758b5e23"
+      }
+    },
+    {
+      "rank": 7,
+      "userId": "7c9a172c-8a3e-54f5-bba8-bf95d7769204",
+      "handle": "SOL589",
+      "displayName": "SOL589",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/321cde573c1e7a024bfbf3c5699ba613_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 164033,
+      "pnl7dUsd": 58921,
+      "pnlAllUsd": null,
+      "volumeUsd": 251144,
+      "trades": 136,
+      "followers": 8707,
+      "wallets": {
+        "solana": "3SW1va94ZdQGyRVW7hUFj9Mt3BX3KvqCPo42zZDSApFC",
+        "evm": "0xe20e23f5729400919e58203884ab58152cb0b806"
+      }
+    },
+    {
+      "rank": 8,
+      "userId": "7c99eb4f-7533-54b4-b3ce-bdbb2a1e9bb5",
+      "handle": "end837",
+      "displayName": "end",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/88aa04422cc2237b54098c7f19ef0e38_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 158585,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 1001809,
+      "volumeUsd": 1711004,
+      "trades": 294,
+      "followers": 170274,
+      "wallets": {
+        "solana": "5DBkonys2H4qHr5x9CCeXPLSWEFbnnLFP1RdfxjJgzvy",
+        "evm": "0x24fb52e17e3d4fd62a119b8f53c1a3f3bfe65c2f"
+      }
+    },
+    {
+      "rank": 9,
+      "userId": "1d129a94-cbfd-50c8-aafd-f729ea981490",
+      "handle": "EzFinance",
+      "displayName": "EzFinance",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/7bf9e53831d82b9bdd7ed4ed6e2d742a_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 137866,
+      "pnl7dUsd": 134678,
+      "pnlAllUsd": null,
+      "volumeUsd": 40404,
+      "trades": 105,
+      "followers": 2465,
+      "wallets": {
+        "solana": "5QfdxDgq4gYxQ9G3WyyL75BqDGUsVp5shjjnYmKSD8dg",
+        "evm": "0xb7e6bb947ff65886795c51b1d7f63d564b508d19"
+      }
+    },
+    {
+      "rank": 10,
+      "userId": "78cb286b-1186-522f-b668-67eadfbd3979",
+      "handle": "luciol",
+      "displayName": "luciol",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/27026a10c347ffdea4851f911a67cab5_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 135787,
+      "pnl7dUsd": 121266,
+      "pnlAllUsd": null,
+      "volumeUsd": 42468,
+      "trades": 41,
+      "followers": 1793,
+      "wallets": {
+        "solana": "AZepRj4VLdExqtnEhxXwtrv1efV7qiry1aPzM9SqP2ax",
+        "evm": null
+      }
+    },
+    {
+      "rank": 11,
+      "userId": "486ca834-1162-5bde-9157-c046c9fe3ce2",
+      "handle": "panceramic",
+      "displayName": "Panceramic",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/4c0b08201a91d5c7a2b097088d973687_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 132847,
+      "pnl7dUsd": 29790,
+      "pnlAllUsd": null,
+      "volumeUsd": 8669595,
+      "trades": 761,
+      "followers": 46450,
+      "wallets": {
+        "solana": "GRP6a4VV5F1EV2o8AfJDq9CC8SVeoNCmi7S94RKzkKCX",
+        "evm": "0x9cf687eaca65e5da625d3fde534a73513b0a959f"
+      }
+    },
+    {
+      "rank": 12,
+      "userId": "f001dffd-344e-5066-9536-c8c5ebd7866c",
+      "handle": "Spittzxrp",
+      "displayName": "Spittzxrp",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/6ce1d4996087a92bb06d72843ea2d69b_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 127812,
+      "pnl7dUsd": 133644,
+      "pnlAllUsd": null,
+      "volumeUsd": 465005,
+      "trades": 1080,
+      "followers": 2235,
+      "wallets": {
+        "solana": "9NeEG8rFsceoERBV4v1vgxtCFmduTYA9VQUwWvvLwMPj",
+        "evm": "0x99e5a075a910ca31d73bbf21c386a11bd7ecc905"
+      }
+    },
+    {
+      "rank": 13,
+      "userId": "b520761f-e56f-51cc-9fa8-1a79c52c7c1f",
+      "handle": "OLedsed",
+      "displayName": "oled",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/1c92dbbd083afe7b6fb95a95f2cb1697_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 124344,
+      "pnl7dUsd": 25674,
+      "pnlAllUsd": null,
+      "volumeUsd": 142858,
+      "trades": 4411,
+      "followers": 3547,
+      "wallets": {
+        "solana": "DNEZYWcqJs9zas47NJuYmp4zraPNAAaTk8uVUqSFzqEj",
+        "evm": "0xf0fa144e08747a516c98136da30c48970f3d1c60"
+      }
+    },
+    {
+      "rank": 14,
+      "userId": "91dcddfe-a316-5894-914b-cbac1f9bf339",
+      "handle": "yellahamma87",
+      "displayName": "yellahamma87",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/6d530b56544dcaedc78820996ba9b75b_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 117288,
+      "pnl7dUsd": 100497,
+      "pnlAllUsd": null,
+      "volumeUsd": 7395,
+      "trades": 60,
+      "followers": 1629,
+      "wallets": {
+        "solana": "6xdSCxmfpP5uqC5nNDubQtohGHRhxieTS5bfMHvWUMgH",
+        "evm": "0x8c8b1ce0c2d0f2f134c2340919b529e2b1537685"
+      }
+    },
+    {
+      "rank": 15,
+      "userId": "ec985412-b867-516c-a5d7-deb4f777bea2",
+      "handle": "GoodMajorYak",
+      "displayName": "GoodMajorYak",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/65aa0cfe5f052dbb38f9d9d1f93f447f_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 115092,
+      "pnl7dUsd": 106506,
+      "pnlAllUsd": null,
+      "volumeUsd": 265159,
+      "trades": 608,
+      "followers": 1418,
+      "wallets": {
+        "solana": "CXpi4dQQySCzkaGbA8DXmxSb5MmjuUx2Pn7NAKoF43pj",
+        "evm": "0x60276ef49751e1093c3875a6395e33749dbbf890"
+      }
+    },
+    {
+      "rank": 16,
+      "userId": "096ca3ae-5370-53a1-93e1-01f0f588773c",
+      "handle": "HimReaper",
+      "displayName": "HimReaper",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/ff0c163915be1b423bc94f30200d6bb1_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 105070,
+      "pnl7dUsd": 78383,
+      "pnlAllUsd": null,
+      "volumeUsd": 598134,
+      "trades": 256,
+      "followers": 9879,
+      "wallets": {
+        "solana": "3kaZ25mojdsPZaxyFmFks9cr1WW44SujAJjLKFWGzYrP",
+        "evm": "0x41e08ff3eee67cec633b0a15c47f2ef9a3af28cf"
+      }
+    },
+    {
+      "rank": 17,
+      "userId": "2f672788-0d2a-59f9-890d-b2c2316eb0bd",
+      "handle": "0xsneakky",
+      "displayName": "Sneaky",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/ec130929b8e1aed85fb44653fd7b39a3_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 103900,
+      "pnl7dUsd": 143592,
+      "pnlAllUsd": 727670,
+      "volumeUsd": 15162999,
+      "trades": 9461,
+      "followers": 43165,
+      "wallets": {
+        "solana": "FfztZq1outrYfyYbKw5P4LGo4xUc4XYEdf7o91UdS7qu",
+        "evm": "0xe9132a6e4a610b796abba5fd4210911fafa55a22"
+      }
+    },
+    {
+      "rank": 18,
+      "userId": "84d94d01-ff0d-5af2-a4a9-d2c2a8d06d9c",
+      "handle": "erik7438",
+      "displayName": "erik7438",
+      "avatar": "",
+      "pnl30dUsd": 103527,
+      "pnl7dUsd": 24702,
+      "pnlAllUsd": null,
+      "volumeUsd": 710885,
+      "trades": 206,
+      "followers": 6312,
+      "wallets": {
+        "solana": "6tN4BEHcYTFH6cCGQkAsMYCDf1CihSg1rjeu2pe88NWw",
+        "evm": "0x5cf75ba541dd51e656e8d66498d351ee02a396a7"
+      }
+    },
+    {
+      "rank": 19,
+      "userId": "ee4d3a85-4e1c-5a66-9a5b-d355891a48f1",
+      "handle": "thenextbigthing555",
+      "displayName": "gz",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/23f296cb1e6b1b5a14d6b630cebda647_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 94257,
+      "pnl7dUsd": 94386,
+      "pnlAllUsd": null,
+      "volumeUsd": 1322,
+      "trades": 861,
+      "followers": 4779,
+      "wallets": {
+        "solana": "AhGqJVLtm7ij9SX4a7mCdiLaaWf7R31dTRvhjzYtUvfB",
+        "evm": "0x89d60976266901ad887a70be924397434be76dbf"
+      }
+    },
+    {
+      "rank": 20,
+      "userId": "5ce00230-95bd-5e68-bcae-f7e527cea57b",
+      "handle": "0x3mp1r3",
+      "displayName": "0x3mp1r3 🇦🇺",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/b0774b06dd00909ad8c797b8ceb35da6_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 93868,
+      "pnl7dUsd": 82009,
+      "pnlAllUsd": null,
+      "volumeUsd": 268404,
+      "trades": 439,
+      "followers": 2865,
+      "wallets": {
+        "solana": "AiipePe8SdVncDmioQShDSr8Cnrev7nmchnphbFyNvo5",
+        "evm": "0x5d0e9d2b918b3eed1284f5cd30bd4cc42c028acb"
+      }
+    },
+    {
+      "rank": 21,
+      "userId": "c14ff2bb-2b07-5e3c-8597-9019c4ab7a9c",
+      "handle": "guavaguy",
+      "displayName": "Cute&Spicy",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/5a3996d4192f13d551d1dd4fbf01f29c_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 88479,
+      "pnl7dUsd": 150056,
+      "pnlAllUsd": 675726,
+      "volumeUsd": 1650369,
+      "trades": 1417,
+      "followers": 43436,
+      "wallets": {
+        "solana": "C481ZKiw4TZGs4EjNkhm6TB7s17swzmqAmCcNm73vGnW",
+        "evm": "0x566dc593a1b15d5fdd8ef2a04f2c9acf3b0749b4"
+      }
+    },
+    {
+      "rank": 22,
+      "userId": "324da6aa-b45e-58e1-98db-25a40e31e8a2",
+      "handle": "xbox360npc",
+      "displayName": "xbox",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/6a172f42d75a41380be515e45cdf9978_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 87642,
+      "pnl7dUsd": 46297,
+      "pnlAllUsd": null,
+      "volumeUsd": 879709,
+      "trades": 793,
+      "followers": 1804,
+      "wallets": {
+        "solana": "2YZ56B6bH1oqUgpEZvWiakkdSVt27n3hLtP5VFfNUKeG",
+        "evm": "0x1483153ba04d464b01b5c99f6533d2015bdd943e"
+      }
+    },
+    {
+      "rank": 23,
+      "userId": "711bb287-7c92-5db5-8bd0-423622d05206",
+      "handle": "horseimnot",
+      "displayName": "Unicorn",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/c4c0344e7dc1670bf53a2aad3b2f3bbc_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 85545,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 281721,
+      "volumeUsd": 2426423,
+      "trades": 2835,
+      "followers": 14148,
+      "wallets": {
+        "solana": "CFJr1M2z3SZpQpBMoY3nagpafvS7Uzanq4L7KVXVKi22",
+        "evm": "0x9962f2c7cf92d940582994c6db13e3c2e3150179"
+      }
+    },
+    {
+      "rank": 24,
+      "userId": "a79a6fb7-f8f3-5d82-b8e0-e5b6893bfcb7",
+      "handle": "trenches_eth",
+      "displayName": "trenches.eth",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/da994886636270648a3539d2d6ab362a_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 82607,
+      "pnl7dUsd": 47798,
+      "pnlAllUsd": null,
+      "volumeUsd": 1178753,
+      "trades": 907,
+      "followers": 3600,
+      "wallets": {
+        "solana": "SoREJz7BSYAjMjcmyU2FUhaREkBmYMKW41N2eHk5GpD",
+        "evm": "0xd16eea85921f10b6bfb7b1e6550503310d420b55"
+      }
+    },
+    {
+      "rank": 25,
+      "userId": "c65daeb3-bf3c-5a89-87c0-cc9cea1ceff0",
+      "handle": "Trenchexe",
+      "displayName": "Trenchy",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/7af277eef1e1f249476390005954591e_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 81070,
+      "pnl7dUsd": 70850,
+      "pnlAllUsd": null,
+      "volumeUsd": 439025,
+      "trades": 939,
+      "followers": 1545,
+      "wallets": {
+        "solana": "8LXgFCwW5LNpo48MY44kpkTj8khZRTvVmG6qzwnKZw5a",
+        "evm": "0x9d111d5541b8daebefab7a8528633189389b0a4e"
+      }
+    },
+    {
+      "rank": 26,
+      "userId": "ba3e50d6-c5c9-58cb-9be8-8a5cad5896dd",
+      "handle": "ILoveAltGirls",
+      "displayName": "I Love Alt Girls",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/5b29eed0f622696a443cd96b56c14717_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 80939,
+      "pnl7dUsd": 115432,
+      "pnlAllUsd": null,
+      "volumeUsd": 566540,
+      "trades": 83,
+      "followers": 12513,
+      "wallets": {
+        "solana": "BpSa2pE1GLsuxZ8cAztafFuXgbEwLywTUQXWSWmKAVjo",
+        "evm": "0x92244d91a378d6cc34cfe27c4471147908405158"
+      }
+    },
+    {
+      "rank": 27,
+      "userId": "c726dc4e-f1b9-550c-9810-fc6b247e85d0",
+      "handle": "PressingProfits",
+      "displayName": "PressingProfits",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/a518889b319f70341b5b5c5fc8c88370_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 76203,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 296898,
+      "trades": 397,
+      "followers": 9473,
+      "wallets": {
+        "solana": "6fK8YaWvPKdKAaBUNw5ikpNf5Q91GJe5agf5CZHegz6J",
+        "evm": "0xb41324307749481b769bb384b213fd6d72bfa75a"
+      }
+    },
+    {
+      "rank": 28,
+      "userId": "8ef641a2-d833-5516-878c-f3ab2959ff1d",
+      "handle": "DIARRA_MMD",
+      "displayName": "$UP£RC@L¥",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/fea5680a0d1daa29539e43190a5f15bf_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 76009,
+      "pnl7dUsd": 52318,
+      "pnlAllUsd": null,
+      "volumeUsd": 258280,
+      "trades": 1011,
+      "followers": 3540,
+      "wallets": {
+        "solana": "5mqi9RDFzbrevHvzWPR8D66gKR582oqZRxdiNHsgrY41",
+        "evm": "0x286c815c86b2ea27ca1a06e3230a3eaf2a86a26c"
+      }
+    },
+    {
+      "rank": 29,
+      "userId": "65c7c217-1950-5697-8e7a-3477aec5dd36",
+      "handle": "theslopper",
+      "displayName": "theslopper",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/ca47e21023d703c92a1f24b1a8b5bc3f_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 73683,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 6584714,
+      "trades": 2276,
+      "followers": 3975,
+      "wallets": {
+        "solana": "GDpqhJgwzg8zcoEmVvGDiVRVnaa797ryvPnNqQVBjQrN",
+        "evm": "0x130918d31ca09f10e7551abbfe4737f856cb3e6a"
+      }
+    },
+    {
+      "rank": 30,
+      "userId": "8b944424-2a96-5f54-a1c7-213698ead264",
+      "handle": "SavageCountry",
+      "displayName": "SavageCountry",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/bdfa64f16f49eb49f6efe87cb9f02c75_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 72410,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 24963,
+      "trades": 155,
+      "followers": 16539,
+      "wallets": {
+        "solana": "CdMRJEA33ee3JsLjMNkc9LohTkczSpom63vkyRu988qa",
+        "evm": "0xa817808a545271cbe580a2410d340505ba38ddaa"
+      }
+    },
+    {
+      "rank": 31,
+      "userId": "baff79a0-b233-5af8-9659-5b2544661acd",
+      "handle": "macfeurson",
+      "displayName": "macfeurson",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/3c3c688754d2e56f2c7c6852bf99a1a8_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 69215,
+      "pnl7dUsd": 81883,
+      "pnlAllUsd": null,
+      "volumeUsd": 600734,
+      "trades": 594,
+      "followers": 4191,
+      "wallets": {
+        "solana": "5tFUYBLP9rYZdsnKyLkSvidwNv6pPdxdqo5sTfdd6tQp",
+        "evm": "0x7e91149bcf20b6eab8ba1f7153b5f873807a8674"
+      }
+    },
+    {
+      "rank": 32,
+      "userId": "eebd5919-a9dd-5374-90ca-52fd7554bf42",
+      "handle": "nadomac",
+      "displayName": "Nado",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/8d3bd804f650a7c04285972ba54100b0_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 67708,
+      "pnl7dUsd": 26856,
+      "pnlAllUsd": null,
+      "volumeUsd": 767737,
+      "trades": 1275,
+      "followers": 3963,
+      "wallets": {
+        "solana": "GbjYhc9qQHpyL2E8yMaqaa7XeNChhA86E7TxaYDxAHmA",
+        "evm": "0xe467654487ed169192d4d95a355d0f3ce2140123"
+      }
+    },
+    {
+      "rank": 33,
+      "userId": "9ae0846e-02cd-5a4d-a604-4ee72c7ab5c9",
+      "handle": "noriega",
+      "displayName": "Noriega",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/6c6d35e9687201bb2fd871c5d4b4e016_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 66531,
+      "pnl7dUsd": 40549,
+      "pnlAllUsd": null,
+      "volumeUsd": 1882140,
+      "trades": 866,
+      "followers": 2373,
+      "wallets": {
+        "solana": "CzpwuNRsLLcYS6pqtUokVsf8MsVA771CPkT2pcZWt11K",
+        "evm": "0x2d850e36bb0bb3d86890eb3d014047dec00eb093"
+      }
+    },
+    {
+      "rank": 34,
+      "userId": "1499368f-e678-5413-a17f-f0d30b9e694e",
+      "handle": "vijung",
+      "displayName": "vijung",
+      "avatar": "",
+      "pnl30dUsd": 65179,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 237950,
+      "trades": 251,
+      "followers": 669,
+      "wallets": {
+        "solana": "D9LupCSy5pwRzWLvxFzj7rbdtjtURMobRLnsDhAofsys",
+        "evm": "0x73666d5979052dab214f7938ce7f09bd3d131eeb"
+      }
+    },
+    {
+      "rank": 35,
+      "userId": "1a72aae3-e438-5bd4-aaef-aaad7d3ef3f9",
+      "handle": "rvttrades",
+      "displayName": "Rev",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/3e492170dd95141cade90764f94437ce_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 63148,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 2632471,
+      "trades": 177,
+      "followers": 2942,
+      "wallets": {
+        "solana": "24GpeM2gXvpMNM5Brm435cjkrZhP7qprU2w8i6k6AFRH",
+        "evm": "0xb66be8cd74f16ca257120ddca3380f04960284d4"
+      }
+    },
+    {
+      "rank": 36,
+      "userId": "f69b98e5-b33f-5f23-9231-1222cc6afc3e",
+      "handle": "blob",
+      "displayName": "blob",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/c8f5ba24138e2ecc24f1b34a814627d2_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 62935,
+      "pnl7dUsd": 25033,
+      "pnlAllUsd": null,
+      "volumeUsd": 4465847,
+      "trades": 448,
+      "followers": 1350,
+      "wallets": {
+        "solana": "2fdvr7RGVpfFy7CZMhqQ82JowYkFq3qXp7N4F6hFa2QQ",
+        "evm": "0xbf43c257e81aae868f0d8b4bd958a50f76671b55"
+      }
+    },
+    {
+      "rank": 37,
+      "userId": "73fc8755-4f29-579e-b3d5-b8b7736fa46a",
+      "handle": "GTA1NER",
+      "displayName": "GTA1NER",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/cafd1a7e51a4c4623da05a11ab7254c4_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 62772,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 119173,
+      "trades": 119,
+      "followers": 1247,
+      "wallets": {
+        "solana": "5bKo9aBCJdAhUmMVSQEQtZPrhxNNwsNbgH9yHSqGAGA3",
+        "evm": "0x94cf0f239ad83f04bac8b4ed44187e14662d52f4"
+      }
+    },
+    {
+      "rank": 38,
+      "userId": "a62c9554-5faa-57a2-8079-8cbd222887b5",
+      "handle": "gtsb",
+      "displayName": "gatsby",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/dda2a640c37197b1caee767b50ac8bb5_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 62620,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 411044,
+      "trades": 305,
+      "followers": 6966,
+      "wallets": {
+        "solana": "BSWzqnWrir5s54Fa94GEwBi1CSAR1q6Nio9JGsPGFcy1",
+        "evm": "0x7d69f630edb9b9ce7c6db869631ce92500d2d13c"
+      }
+    },
+    {
+      "rank": 39,
+      "userId": "b66e5b32-c043-519f-a0a2-16057b4b6235",
+      "handle": "MINHxDYNASTY",
+      "displayName": "MXD",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/40a5e53f3bc2636dd0bf32f00f563a03_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 61749,
+      "pnl7dUsd": 152215,
+      "pnlAllUsd": null,
+      "volumeUsd": 4077508,
+      "trades": 1153,
+      "followers": 76891,
+      "wallets": {
+        "solana": "3WxibuvNHxSfMY5mBXfzqmbA3svtKpWBUtCqan33PxJS",
+        "evm": "0xa984149da86ad9cc8d67a47e3d7b57adb1415502"
+      }
+    },
+    {
+      "rank": 40,
+      "userId": "5c37d339-d572-551c-b596-a0ddeec67b4e",
+      "handle": "andy",
+      "displayName": "andy",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/06c27721752a8931beda4e531bc9ea32_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 61363,
+      "pnl7dUsd": 60576,
+      "pnlAllUsd": null,
+      "volumeUsd": 18158261,
+      "trades": 3558,
+      "followers": 48439,
+      "wallets": {
+        "solana": "AjmmrnMkd4FHe7HZULcof2WZaR7x2ivdvNJwGcLJz2YS",
+        "evm": "0x3ecbecb8e47702249842c29cc5aed564ad1fa84b"
+      }
+    },
+    {
+      "rank": 41,
+      "userId": "b4767854-90ec-5796-8b3e-af39ec18bc5d",
+      "handle": "FreshUpperHyena",
+      "displayName": "FreshUpperHyena",
+      "avatar": "",
+      "pnl30dUsd": 60756,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 2042935,
+      "trades": 2660,
+      "followers": 1008,
+      "wallets": {
+        "solana": "8SX1weh35hXicy2bKK3BJ8JJnNqxC9DgU7Rz365gfaTC",
+        "evm": "0xe75eca68778f8b73fab87636ff7598c17da7d717"
+      }
+    },
+    {
+      "rank": 42,
+      "userId": "89087517-b0db-5f13-80b4-22fe5d600ad3",
+      "handle": "NwCrypto4",
+      "displayName": "NwCrypto4",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/35249c0838c185da5874a3b84d6417c9_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 60009,
+      "pnl7dUsd": 43656,
+      "pnlAllUsd": null,
+      "volumeUsd": 444399,
+      "trades": 466,
+      "followers": 2094,
+      "wallets": {
+        "solana": "9pyJjAzXCKydEvcCFBaUhrrLVNBpfwvvnQqj2rFQymGq",
+        "evm": "0xacfe551f239ab812646ac3ca74c89fe6ff6f92da"
+      }
+    },
+    {
+      "rank": 43,
+      "userId": "041e447d-7baf-5351-ace3-5f03a011f1eb",
+      "handle": "panda_x28",
+      "displayName": "panda_x28",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/90cf001b555e5099ecf3b31cb0cf39dd_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 59380,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 555744,
+      "trades": 3278,
+      "followers": 1651,
+      "wallets": {
+        "solana": "7QFANQRVTSUJL3NPQt6zwjeptEiU6hkgB1bXSZhjwYq1",
+        "evm": "0xb187062e996a43634f51896f8eed47dec7779860"
+      }
+    },
+    {
+      "rank": 44,
+      "userId": "19e3f684-37f2-5d66-b915-618f868ed15b",
+      "handle": "Chickenjoe1",
+      "displayName": "Chicken Joe",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/34cf91503e47b8999a2398434ba19df7_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 59327,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 1066433,
+      "trades": 275,
+      "followers": 3022,
+      "wallets": {
+        "solana": "H3tHzyBpooJc8Rs5VjDY8bfpWvG755JYZxpkpZVtD23e",
+        "evm": "0x9e2cfa028b98dbeea05bcfc74b4ba90d621066e8"
+      }
+    },
+    {
+      "rank": 45,
+      "userId": "1d2dca5e-6f59-5438-bfe8-e12002c45ac0",
+      "handle": "hahahalol",
+      "displayName": "hahahalol",
+      "avatar": "",
+      "pnl30dUsd": 58491,
+      "pnl7dUsd": 60644,
+      "pnlAllUsd": null,
+      "volumeUsd": 369433,
+      "trades": 427,
+      "followers": 1388,
+      "wallets": {
+        "solana": "3t6kyP1M3Vmo97QnGZMDNwjEUwGP4xtSU4xbUm8Pk4Go",
+        "evm": "0x0c4800163af3e815c8a027cfefd83d9331d0e2c3"
+      }
+    },
+    {
+      "rank": 46,
+      "userId": "4642acb4-8696-50c3-9e23-cd14d14233e8",
+      "handle": "apc143",
+      "displayName": "apc143",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/ccd3f21343c9170846735f841cef0c92_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 58071,
+      "pnl7dUsd": 54564,
+      "pnlAllUsd": null,
+      "volumeUsd": 82723,
+      "trades": 404,
+      "followers": 504,
+      "wallets": {
+        "solana": "CL87wcYjKpNkvLu67pfGZPAeFL7JqwKDVMgYmDvp4UgT",
+        "evm": "0x6ee6e9508a98a033858683a7f5ee2ce87007377f"
+      }
+    },
+    {
+      "rank": 47,
+      "userId": "ce6673e1-167b-5a97-a538-b33d2f456b9a",
+      "handle": "breeee",
+      "displayName": "derbre",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/5cc8d9c6c62ee4cd4b47e4dbf9ae1b7c_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 55501,
+      "pnl7dUsd": 54990,
+      "pnlAllUsd": null,
+      "volumeUsd": 172710,
+      "trades": 823,
+      "followers": 934,
+      "wallets": {
+        "solana": "BfmMJagLMKGLbMSiCdB7tMFA5kt1jfUdWzw9Pe3ZWpzX",
+        "evm": "0x02f2363437acd84ff1c272ce8aaaeae269ef7520"
+      }
+    },
+    {
+      "rank": 48,
+      "userId": "6f59e757-c7ab-5dde-934b-62514d926506",
+      "handle": "_Crashbandit_",
+      "displayName": "_Crashbandit_",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/b8ed5cbfaaafcb2527b5c43fe95b3d4f_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 54970,
+      "pnl7dUsd": 36343,
+      "pnlAllUsd": null,
+      "volumeUsd": 1297781,
+      "trades": 900,
+      "followers": 1907,
+      "wallets": {
+        "solana": "6QDHbo5nLpNU1ymmXacXZMmVZY2NC4hnbMV86dTSRww1",
+        "evm": "0x793729fbd5fd9488ba38da9118c21c5387d42c5f"
+      }
+    },
+    {
+      "rank": 49,
+      "userId": "fe35e821-be1f-520d-a805-16d4cf21dce3",
+      "handle": "square1one_",
+      "displayName": "squareone",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/0c626c133975815dd05b3430ea71e81b_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 54150,
+      "pnl7dUsd": 40288,
+      "pnlAllUsd": null,
+      "volumeUsd": 4156,
+      "trades": 47,
+      "followers": 1682,
+      "wallets": {
+        "solana": "AZtTrtEF9gYvwZnngLcumtDaQMQEgFkNEXqSmvSChuQN",
+        "evm": null
+      }
+    },
+    {
+      "rank": 50,
+      "userId": "ba19a696-166d-5ad7-841b-10c9db3bcecd",
+      "handle": "a1lon9parody",
+      "displayName": "not alon",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/11b1e4bab2ade46524b3c82aac29dc0a_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 53850,
+      "pnl7dUsd": 36479,
+      "pnlAllUsd": null,
+      "volumeUsd": 781,
+      "trades": 850,
+      "followers": 1535,
+      "wallets": {
+        "solana": "FQpu9hW7C5p7irsXYRDHjtBKFc6ooNWni2TX1S6VHxRz",
+        "evm": "0xc49d2eac4cbdb2cb070c52020313150c5ef05f92"
+      }
+    },
+    {
+      "rank": 51,
+      "userId": "22140383-e690-592d-9cc9-2ac49f16040f",
+      "handle": "prevaile",
+      "displayName": "prevaile",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/c8f702587bde354117c93654597e3f81_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 52785,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 477290,
+      "volumeUsd": 18002986,
+      "trades": 5912,
+      "followers": 7076,
+      "wallets": {
+        "solana": "EzKDs32Qd396gg48HZKGibvfAdS27KTmcCfdEp6euSLt",
+        "evm": "0x4ed7402f8e7e9ca685d24997360d656695836bde"
+      }
+    },
+    {
+      "rank": 52,
+      "userId": "ff03cead-db17-5f20-b8aa-b2cae7e15d6a",
+      "handle": "ResellCalendar",
+      "displayName": "RC",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/867ed6dec9d1ee779bf7d3438f7801ac_small?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 52245,
+      "pnl7dUsd": 49732,
+      "pnlAllUsd": 577342,
+      "volumeUsd": 12761565,
+      "trades": 5038,
+      "followers": 117122,
+      "wallets": {
+        "solana": "DxM1hfY8FQ8dNGrucuJzhJcF8KRbjk8WBwrgKvQ9spPv",
+        "evm": "0xf7c0d9aee226b632a25b1c096d8c285ed20d55b1"
+      }
+    },
+    {
+      "rank": 53,
+      "userId": "f77e8170-df71-5e2a-bfcf-b1ba6600ca6e",
+      "handle": "DacityCoin",
+      "displayName": "hedging on chain",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/03e7aeaecb23a02471b16a43d3b04361_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 50580,
+      "pnl7dUsd": 49036,
+      "pnlAllUsd": null,
+      "volumeUsd": 32505,
+      "trades": 17,
+      "followers": 836,
+      "wallets": {
+        "solana": "8okky6BPtiqLRYxizH52mZz1Wb2vYcJ21Sws9iq3ma8z",
+        "evm": null
+      }
+    },
+    {
+      "rank": 54,
+      "userId": "6d9090cb-2d23-5ae9-8a3a-33eb1a98f0ff",
+      "handle": "arbitrary",
+      "displayName": "arbitrary",
+      "avatar": "",
+      "pnl30dUsd": 47603,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 309876,
+      "volumeUsd": 4575773,
+      "trades": 1992,
+      "followers": 11022,
+      "wallets": {
+        "solana": "Dq2UkKj2bAWusWGDkuJsRRz52y3NQpYvmqgyhd8PkRzA",
+        "evm": "0x5c60dfd629e6430cab9ba8421d78da3c75407270"
+      }
+    },
+    {
+      "rank": 55,
+      "userId": "a485d123-1833-5d02-b2b4-f8945a6cf681",
+      "handle": "dipbaby",
+      "displayName": "dip-baby",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/e17fda4a450ad2753d55a7b543bab58f_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 46961,
+      "pnl7dUsd": 41830,
+      "pnlAllUsd": null,
+      "volumeUsd": 553325,
+      "trades": 1463,
+      "followers": 651,
+      "wallets": {
+        "solana": "5nd5su6YuQbCqxLefc52tfuuAsFCRu2eRgLjxtFmVsSr",
+        "evm": "0x4c3d40d0e11ee1e663b4b892aef721aebcce070d"
+      }
+    },
+    {
+      "rank": 56,
+      "userId": "6acf5dac-d8a6-5afd-af20-60eff628116e",
+      "handle": "shillcapital",
+      "displayName": "Shill Cap",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/f628a86a92e64f96475e6958f3481d61_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 46181,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 455929,
+      "volumeUsd": 28867067,
+      "trades": 1556,
+      "followers": 11021,
+      "wallets": {
+        "solana": "6bxz5E93NJBXqubkT72nLzkkz9j2PMBbfPKi6qxGYXdW",
+        "evm": "0x9337ce7e633230aa6f32e3c10d0a26aedf92a82b"
+      }
+    },
+    {
+      "rank": 57,
+      "userId": "d14d5d34-3d14-5c64-8699-272fc3a50940",
+      "handle": "Lahsin",
+      "displayName": "Lahsin",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/2ce5a70071f146d1cd37170d20b2d5ab_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 45920,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 177534,
+      "trades": 210,
+      "followers": 503,
+      "wallets": {
+        "solana": "2fVQectj3PKRmhCt6eox3rU5fCxJN1trNhocdHhyX9KS",
+        "evm": "0xafe4f41e3ad4c0146d4c3fdb85d02c0bf55556b9"
+      }
+    },
+    {
+      "rank": 58,
+      "userId": "c6f7b11d-fdc2-55c6-93db-565ee98ee30c",
+      "handle": "awtorkowski7",
+      "displayName": "Polish Batman",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/9f8da06763044d156f6d535511c0ae2e_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 45348,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 392197,
+      "trades": 437,
+      "followers": 31561,
+      "wallets": {
+        "solana": "7zs3Cda5C8XWadmFKKfuPyXpo78F5AFY6RXQ3Ec5p9k7",
+        "evm": "0x5fa1fd5142b8c5977696521c20f5ca2e24c6d037"
+      }
+    },
+    {
+      "rank": 59,
+      "userId": "6ff4426d-85f8-5e3f-b9ad-888fd056d004",
+      "handle": "runnityessirski",
+      "displayName": "Scooch De Loosh",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/ad44539400c3de4d8d82ce7875b57ab8_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 45328,
+      "pnl7dUsd": 47063,
+      "pnlAllUsd": null,
+      "volumeUsd": 122589,
+      "trades": 230,
+      "followers": 1041,
+      "wallets": {
+        "solana": "G6anmkhTB36YJVVME9te9RF8Fr3Xpnocs5yYd2xYt75V",
+        "evm": null
+      }
+    },
+    {
+      "rank": 60,
+      "userId": "239d4f28-fc84-52fe-bc57-ceb16e392a15",
+      "handle": "RussianKitty",
+      "displayName": "RuKitty",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/87ebc4a1c5a11e3ef2e600d34bd5ab7f_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 45217,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 1151756,
+      "trades": 2171,
+      "followers": 833,
+      "wallets": {
+        "solana": "4czhB1XjDCKeCj3ApuVMJPuF6DCnRh1i9RDopTdYTV2J",
+        "evm": "0xf5583779ba23fbae370784db8c780d2e41292345"
+      }
+    },
+    {
+      "rank": 61,
+      "userId": "a451f431-6717-5c33-bacd-e1e9ea9dd385",
+      "handle": "Boltz",
+      "displayName": "Boltz",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/1e02bea2e9099616619ebe56ab132ade_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 44841,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 581933,
+      "trades": 232,
+      "followers": 1767,
+      "wallets": {
+        "solana": "2KYJCBZX8VvXhqgt8fTukyNenB5zhvhDxYpeTNPfcfwF",
+        "evm": "0xed1f0227093e81671a8db3ca4f83ad54ef27b37a"
+      }
+    },
+    {
+      "rank": 62,
+      "userId": "c72fec90-9b72-52a3-b717-242a9645c945",
+      "handle": "artofprerun",
+      "displayName": "Alen",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/85d61702b3379f20b953c9a600624db5_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 44700,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 1002358,
+      "trades": 1533,
+      "followers": 2541,
+      "wallets": {
+        "solana": "B16rQvshabJ5f7x8afSwspdKbbWaoyotAVQRvo5gMfTY",
+        "evm": "0x563dc185efa5c718f4fc1deffedaa4de2578030b"
+      }
+    },
+    {
+      "rank": 63,
+      "userId": "55d58280-2ec2-5a83-9ea6-c154935b5fea",
+      "handle": "mihar",
+      "displayName": "mihar",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/023beaac29f4204413f0c44d65acd195_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 44514,
+      "pnl7dUsd": 37445,
+      "pnlAllUsd": null,
+      "volumeUsd": 532054,
+      "trades": 967,
+      "followers": 1145,
+      "wallets": {
+        "solana": "63m1tduYf9v78Rrom4quxds19Gc516ujnPxsyrsYFAUj",
+        "evm": "0x6bcb52b54e8f768dafb3e252b77c4821d80372c3"
+      }
+    },
+    {
+      "rank": 64,
+      "userId": "e3cbb175-df7f-56d2-a4b2-ebf716f9f5c8",
+      "handle": "FernandoGo70623",
+      "displayName": "Fernando",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/fdf3a14ec264e15e569d2f2858f86a24_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 44321,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 737200,
+      "trades": 582,
+      "followers": 2519,
+      "wallets": {
+        "solana": "8trkddz4yGMcr5uwFHza9x5fHoZneAqN9jqENypZHLaK",
+        "evm": "0x1a6dd3f122c6aabf9cfee874b6cc120da7593938"
+      }
+    },
+    {
+      "rank": 65,
+      "userId": "1d8da492-143f-5ee7-8215-085ef495d026",
+      "handle": "GrandSafeAnt",
+      "displayName": "GrandSafeAnt",
+      "avatar": "",
+      "pnl30dUsd": 44042,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 2336508,
+      "trades": 649,
+      "followers": 3407,
+      "wallets": {
+        "solana": "Fk4aTUwwPUUz2mAeeLqQcqejU7LNDrX4HHnBC6rV9BcE",
+        "evm": "0x92a99ce3e7340d92f9381da756efbb4374d0484f"
+      }
+    },
+    {
+      "rank": 66,
+      "userId": "a3ef5413-c268-5a47-a10d-9502270de9b2",
+      "handle": "vvs000",
+      "displayName": "vvs",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/d3288c217a7719012968cd53606c3c59_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 43866,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 1486237,
+      "trades": 629,
+      "followers": 6181,
+      "wallets": {
+        "solana": "4Bc4Ue2G37zoQCiksAvwMgXQQJFKcYQThnoHPKizAmWB",
+        "evm": "0x3bb70b3a3580a534ddd11e2eabebecff01719ce0"
+      }
+    },
+    {
+      "rank": 67,
+      "userId": "9c0fc18c-94f9-5c8a-b724-88b119673e33",
+      "handle": "Darky1k",
+      "displayName": "Darky1k",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/658a2fb9b9bca3b6e755aecfc48b31c5_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 43839,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 153635,
+      "trades": 182,
+      "followers": 5317,
+      "wallets": {
+        "solana": "2Qwpdkt5bqbfBPXE2A3zrbN6rcT14Z1XbZ2MxdRpxyTc",
+        "evm": "0x4894f46153d9957104f5bf396012c7770504c4c4"
+      }
+    },
+    {
+      "rank": 68,
+      "userId": "18394418-9f4a-5192-be36-550c86a623d9",
+      "handle": "rokenmg1",
+      "displayName": "rokenmg1",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/6b0d95c45fc65ba7df28cc1c300b9096_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 43541,
+      "pnl7dUsd": 40491,
+      "pnlAllUsd": null,
+      "volumeUsd": 109500,
+      "trades": 535,
+      "followers": 357,
+      "wallets": {
+        "solana": "3A5sZTssver5vZ72jkBPzszTn4FhbjJnHMdVdaxrjU9S",
+        "evm": "0x581ad4dbe58ef8cedac6988b34500d505de1b72a"
+      }
+    },
+    {
+      "rank": 69,
+      "userId": "e07e4335-0588-5450-a07d-a06efa6af5eb",
+      "handle": "retrad",
+      "displayName": "retrad",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/aa78392ccaf337d1916ef242a3bbadd1_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 43059,
+      "pnl7dUsd": 39376,
+      "pnlAllUsd": null,
+      "volumeUsd": 7948,
+      "trades": 805,
+      "followers": 763,
+      "wallets": {
+        "solana": "GUhn9ivU5kMVJiUfUqDgwejKDVc8TuwZNZHgiZitowgm",
+        "evm": "0xd8921b9a56047708a423e3063bd0c18d3a03c43c"
+      }
+    },
+    {
+      "rank": 70,
+      "userId": "f4b83d06-9260-5597-82d6-44a5a6356f9e",
+      "handle": "voidedcrypto",
+      "displayName": "voided",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/2b969f31d4a9219a60cf5f073b0c87a7_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 42795,
+      "pnl7dUsd": 42795,
+      "pnlAllUsd": null,
+      "volumeUsd": 16454,
+      "trades": 11,
+      "followers": 878,
+      "wallets": {
+        "solana": "96kT3vAmH46mMAQtnzo6qVXK4zKhvr8ATbm8RLYH5Xrr",
+        "evm": null
+      }
+    },
+    {
+      "rank": 71,
+      "userId": "a6351c6a-377e-5bf9-a969-f079f373a72c",
+      "handle": "Nichequantelsa",
+      "displayName": "Playmaking Shot Creator",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/fc6c9f632f5c284cd898d0897fef8cfb_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 41922,
+      "pnl7dUsd": 19780,
+      "pnlAllUsd": 482184,
+      "volumeUsd": 17640090,
+      "trades": 20768,
+      "followers": 4704,
+      "wallets": {
+        "solana": "CJ7yAUC3Tf52WGrH8LvHzcnib6hGfmU9XDgGni7RDKZu",
+        "evm": "0xf7142c2b1e52308c354564a3f3a5cc420947a266"
+      }
+    },
+    {
+      "rank": 72,
+      "userId": "c34cabc6-1b1d-5ac3-ac57-05542259c50d",
+      "handle": "clipzfnf",
+      "displayName": "Clips",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/39ceabb1e82090dcd8a5485141d59369_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 41906,
+      "pnl7dUsd": 16148,
+      "pnlAllUsd": null,
+      "volumeUsd": 10856,
+      "trades": 1285,
+      "followers": 636,
+      "wallets": {
+        "solana": "9HvhSPXKAgsgvw3264KtQmpuTm91Urr93SV9kAsioRLU",
+        "evm": "0x6980ccd39e4980744acafbd3d6b1284e64432550"
+      }
+    },
+    {
+      "rank": 73,
+      "userId": "2ae0970e-9d39-5720-a0df-2f95f92021c0",
+      "handle": "Youtrippen3654",
+      "displayName": "Youtrippen3654",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/61a28bd8474a0f67cd7c628db155aa4f_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 39407,
+      "pnl7dUsd": 38457,
+      "pnlAllUsd": null,
+      "volumeUsd": 24169,
+      "trades": 57,
+      "followers": 319,
+      "wallets": {
+        "solana": "52GoaZFWmvW28Z9hmXyLjQUu2hWAj5dQ6hUhsbSF9u6h",
+        "evm": "0x251bcc9c16ddd91a6aeeec19b9256403bd0dc487"
+      }
+    },
+    {
+      "rank": 74,
+      "userId": "1e64531c-d19f-56d4-9906-7c96827b706f",
+      "handle": "zhuchao",
+      "displayName": "zhuchao",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/4eb73a93985858f642930fba94007432_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 39020,
+      "pnl7dUsd": 39055,
+      "pnlAllUsd": null,
+      "volumeUsd": 238782,
+      "trades": 141,
+      "followers": 1856,
+      "wallets": {
+        "solana": "4wMXLy53bBfGffFKR7r67xfJWvSKNvritFJWnMLX7D8U",
+        "evm": "0xa5cde931f5e59a01c2a027fe794643f88e80b5aa"
+      }
+    },
+    {
+      "rank": 75,
+      "userId": "e47959d5-82ea-5076-ae8a-066c96c5ea1e",
+      "handle": "Spoily",
+      "displayName": "Spoily",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/bddd02223befd122dec5e994e5136a41_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 38935,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 3564846,
+      "trades": 2570,
+      "followers": 5137,
+      "wallets": {
+        "solana": "4CwrH924ZreiA4rjEfWRbVa28LrzYb18EBjGhLLZwBjX",
+        "evm": "0xf54d367321030c5d72a3675fc907a7aa8e61a701"
+      }
+    },
+    {
+      "rank": 76,
+      "userId": "0a1faeaa-cf7f-5396-aa41-b7c44287f108",
+      "handle": "geegeeg",
+      "displayName": "geegeeg",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/fafed44821d383eaff2e131f94743e72_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 38345,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 179175,
+      "trades": 113,
+      "followers": 684,
+      "wallets": {
+        "solana": "93Q3V8KVEvEjDPViWKQ9jU7WvzsnuDKkKX9t1nB93JKP",
+        "evm": "0xb5e3a9233a48bc55c28abc6fdf5c8feb53465576"
+      }
+    },
+    {
+      "rank": 77,
+      "userId": "d2e5995a-e5ce-52e3-8a07-c01f66c666b2",
+      "handle": "doubleteee",
+      "displayName": "doubleteee",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/62415403b01d9b41721c03a9c30c01fb_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 38266,
+      "pnl7dUsd": 37312,
+      "pnlAllUsd": null,
+      "volumeUsd": 30587,
+      "trades": 92,
+      "followers": 658,
+      "wallets": {
+        "solana": "AAngvGReUVskzkNVE7HsPDhnLMAm1PuUYHh36XTVc9iu",
+        "evm": "0x230cadcec840acae3fceaa38897fca9867a9177f"
+      }
+    },
+    {
+      "rank": 78,
+      "userId": "8159a9be-d63d-58c6-85bf-7e6ce097fd85",
+      "handle": "topdoog",
+      "displayName": "topdoog11",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/4c4d17ac3c4aab55e6904ae173d6c4ba_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 36537,
+      "pnl7dUsd": 34898,
+      "pnlAllUsd": null,
+      "volumeUsd": 489442,
+      "trades": 466,
+      "followers": 661,
+      "wallets": {
+        "solana": "6HYi1aohJWYsW3hyM36MV73Bi2Lop6VadPW2uu6Wfxcs",
+        "evm": "0x33e0dd55e3d1317491a7a849af78202eb53d9162"
+      }
+    },
+    {
+      "rank": 79,
+      "userId": "50a5f1b7-25e8-5a51-922c-7dccd7e1448b",
+      "handle": "CleanEqualRaven",
+      "displayName": "CleanEqualRaven",
+      "avatar": "",
+      "pnl30dUsd": 36532,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 63566,
+      "trades": 98,
+      "followers": 226,
+      "wallets": {
+        "solana": "459yx8BuV3NSU1WCfYaeQymhXuWPYjFxyvHuViRjg15S",
+        "evm": "0x807999929cb26658fffb58f95c7f7616a440bd96"
+      }
+    },
+    {
+      "rank": 80,
+      "userId": "b9a1f071-e96a-5b43-98c4-94ae7ee07fc4",
+      "handle": "MidFancyLark",
+      "displayName": "MidFancyLark",
+      "avatar": "",
+      "pnl30dUsd": 36329,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 502930,
+      "trades": 716,
+      "followers": 303,
+      "wallets": {
+        "solana": "9CmNu8kE5j9DPi2T1sCTZvNQULJgU15RpxwWeR8Wme5t",
+        "evm": null
+      }
+    },
+    {
+      "rank": 81,
+      "userId": "49b7f10d-53ce-54fd-8f38-f385183cc674",
+      "handle": "ibuyfloors",
+      "displayName": "ibuyfloors",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/a62f6443e29f1dc8b44f7c0a4043ef97_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 36233,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 445054,
+      "trades": 599,
+      "followers": 1056,
+      "wallets": {
+        "solana": "57V8vKA9kPbHs9TiSp5xjhvkAJUyaFJud3gi5NsopaHA",
+        "evm": "0x7a9c7a0390e01e563a6f57c4705fbf167ea81791"
+      }
+    },
+    {
+      "rank": 82,
+      "userId": "6d97a397-8a88-5d66-a22f-a4dd0e38a66e",
+      "handle": "CookedSayers",
+      "displayName": "𝐒𝐚𝐲𝐞𝐫𝐬",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/3765ae9c1b5b6641c8f59bf3143362f2_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 35768,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 199224,
+      "trades": 466,
+      "followers": 709,
+      "wallets": {
+        "solana": "7UtpbSJDWKYVbEAFcA4E4rdV9hdaN3Yf7QjrZ1StgCW5",
+        "evm": "0xe31c8bd2ed610577bbad8053815288f7c1f644af"
+      }
+    },
+    {
+      "rank": 83,
+      "userId": "2420ac00-dbc0-56fb-acea-241bbb4ead71",
+      "handle": "PandeyMikhil",
+      "displayName": "Mikhil Pandey",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/dac62b40e5542a78ed4197e3702f3936_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 34226,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 99198,
+      "trades": 41,
+      "followers": 2038,
+      "wallets": {
+        "solana": "hxh2fsiXn2T33MiiLtQ9PDMjiAvDNfC7hLBiHiwfwBr",
+        "evm": "0x48e657971a63aa27290317ddcffda61017dfc612"
+      }
+    },
+    {
+      "rank": 84,
+      "userId": "6609b205-20b6-5d92-85a7-5b262ac655a3",
+      "handle": "Wang_Sato",
+      "displayName": "MoonRun_ONLY",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/7dc3dedaa053a3dc0ac8413b7f3f7603_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 34224,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 95726,
+      "trades": 134,
+      "followers": 5352,
+      "wallets": {
+        "solana": "5Ztn7f9eYRrUUKgja67QMDDKZ1QeSWDxsLSptroqXSc2",
+        "evm": "0xea4872bed48a6b7f2e833bd3ea37723032b30659"
+      }
+    },
+    {
+      "rank": 85,
+      "userId": "05d98d76-f402-582d-ba8c-8996cd2bc1a8",
+      "handle": "Dug7",
+      "displayName": "Dug7",
+      "avatar": "",
+      "pnl30dUsd": 33531,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 437303,
+      "trades": 839,
+      "followers": 1654,
+      "wallets": {
+        "solana": "DEDaJj62nskqReL9HY8jAdPa3WzRtAZiWpu6ohnkNr5Z",
+        "evm": "0x65ca86a4900841f0986115d1da76a3fed1726c67"
+      }
+    },
+    {
+      "rank": 86,
+      "userId": "7d5e7ac4-66da-5e0a-a32f-3179496b2d11",
+      "handle": "Seeker369",
+      "displayName": "Seeker",
+      "avatar": "",
+      "pnl30dUsd": 31931,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 18912,
+      "trades": 107,
+      "followers": 230,
+      "wallets": {
+        "solana": "FHvkzqERdqP2iKnE59WQhQr2iRAnaR4N1DNgjXTJyjQj",
+        "evm": "0xce47064e628248b93fe4f513f5134cb60029a818"
+      }
+    },
+    {
+      "rank": 87,
+      "userId": "ac91f12d-0b5a-55f8-ae2c-2259dcd0e1fc",
+      "handle": "Arthrodir",
+      "displayName": "Arthrodir🫍",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/76a82b1033c6b097a2e5d23ede9e07ec_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 31886,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 443316,
+      "trades": 70,
+      "followers": 1727,
+      "wallets": {
+        "solana": "5ax5gzZU7QJPZjQfkNDL11uX5EV8tE7ZcaWejdHMx2AB",
+        "evm": "0x248abd7d75d12896a0ad5a64e7b3d89551b3651a"
+      }
+    },
+    {
+      "rank": 88,
+      "userId": "07a91037-72a9-525d-b36f-dbeadad316ff",
+      "handle": "0nlygem",
+      "displayName": "gem",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/29948f7ece96a042d6953de22bc583c0_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 31154,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 23664,
+      "trades": 9,
+      "followers": 3006,
+      "wallets": {
+        "solana": "8JTUiqPd1BQFhqsjrDxoWn38GnPqzGHiUoaJMJ4Lu5L3",
+        "evm": null
+      }
+    },
+    {
+      "rank": 89,
+      "userId": "1d9e3811-6f63-52bf-8f00-ffb1ea266244",
+      "handle": "K_stop_x",
+      "displayName": "K-stop",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/8e80d1c8bd6e799e1df52c5c0b118d75_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 30665,
+      "pnl7dUsd": 32982,
+      "pnlAllUsd": null,
+      "volumeUsd": 340756,
+      "trades": 850,
+      "followers": 514,
+      "wallets": {
+        "solana": "37vAhWnYTgW9xC5Rn8fqDmabG8wESgZPnVQY3qhJ6TtL",
+        "evm": "0x84236f414d9506dcb135f0e14513023292cde3b5"
+      }
+    },
+    {
+      "rank": 90,
+      "userId": "7d79a46d-b47a-513f-8b9a-19d863ade143",
+      "handle": "Strae",
+      "displayName": "Strae",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/aa3e443e9494cc38a21ae9a844380650_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 30028,
+      "pnl7dUsd": 25715,
+      "pnlAllUsd": null,
+      "volumeUsd": 2925,
+      "trades": 86,
+      "followers": 568,
+      "wallets": {
+        "solana": "G7QLQYzFo25tePVHfYkdT5q3sxPaShvkLNwgtpwH7xAq",
+        "evm": null
+      }
+    },
+    {
+      "rank": 91,
+      "userId": "5ffd7e65-1b29-55b3-906f-c20ef977e9b6",
+      "handle": "Hehehehehehehe",
+      "displayName": "呵呵",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/e65509c9d1c30fb6064ee32ffdb82d9e_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 29973,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 116351,
+      "trades": 3265,
+      "followers": 239,
+      "wallets": {
+        "solana": "F7xmZjUn2He2wJu3Ku18a57DEDHr3yjCyZ931MaHuka6",
+        "evm": "0x36bcfe5ea782cc2186b21267f38a669225d97007"
+      }
+    },
+    {
+      "rank": 92,
+      "userId": "699d520e-b770-5d7b-997f-c4c4fe848f7d",
+      "handle": "OinkersRUs",
+      "displayName": "Grant Liu",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/2d715d1831b52b142add6efee92d9ec2_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 29856,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 508280,
+      "volumeUsd": 3120792,
+      "trades": 2189,
+      "followers": 24539,
+      "wallets": {
+        "solana": "DPAN2Vig8BokpQCCu4mtV1mTWYLS7ktKe1hHKVBcsayL",
+        "evm": "0x4946384166c60244cf383927bd7d2536ed2ae962"
+      }
+    },
+    {
+      "rank": 93,
+      "userId": "e7ed8ca2-b8ef-5a6e-bd0d-35bdd77f8e3e",
+      "handle": "yutaaaa",
+      "displayName": "rika give me everything",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/2847d9159828b5d79574651631ba3add_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 29731,
+      "pnl7dUsd": 17532,
+      "pnlAllUsd": null,
+      "volumeUsd": 585020,
+      "trades": 2036,
+      "followers": 409,
+      "wallets": {
+        "solana": "AkgfjBNu8EED62rV8c1p9tB3WsWquhmZ7JSwWsSzhqBo",
+        "evm": "0x6f3d0825d87cb147a1295e7c103ea77097f7b3b8"
+      }
+    },
+    {
+      "rank": 94,
+      "userId": "98efa495-f1a2-5c96-8d0d-b1437c94c214",
+      "handle": "fominator",
+      "displayName": "Wick",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/b288ab4fc7a7ea0b75b08466ef7c692e_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 28976,
+      "pnl7dUsd": 30507,
+      "pnlAllUsd": null,
+      "volumeUsd": 90542,
+      "trades": 100,
+      "followers": 450,
+      "wallets": {
+        "solana": "21xnvmzXB78tDjMzufESD3CFji9AWBTLQsL8PgyY1jNz",
+        "evm": "0xee69bcb3054caf70b03d813f7dcc2d6e8d291c90"
+      }
+    },
+    {
+      "rank": 95,
+      "userId": "6613d66a-3167-51c4-ad9f-0afdf2753585",
+      "handle": "sweetdreams",
+      "displayName": "sweet",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/8fde39977d0a32acb29c0138fde64ae6_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 28946,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 0,
+      "trades": 23,
+      "followers": 1974,
+      "wallets": {
+        "solana": "AsbbdkEX7WtP7LUbKhPCwUHXDc8JLzhtyVophM47a6n3",
+        "evm": null
+      }
+    },
+    {
+      "rank": 96,
+      "userId": "5d3db486-cfa0-5818-b2ff-510a01f020f3",
+      "handle": "cemaltr",
+      "displayName": "cemal",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/737b096367b104674e8a150aaf705922_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 28924,
+      "pnl7dUsd": 26549,
+      "pnlAllUsd": null,
+      "volumeUsd": 8801,
+      "trades": 118,
+      "followers": 592,
+      "wallets": {
+        "solana": "9QfC3wikydV4HkD39nVVJpynu7rb7qmhFKk4mP6ESdBS",
+        "evm": "0x1f8af64845f392043dd422a5a0d0177a338ed486"
+      }
+    },
+    {
+      "rank": 97,
+      "userId": "7c0c266b-dfda-517d-9243-c169bccc2fc5",
+      "handle": "828293939",
+      "displayName": "828293939",
+      "avatar": "",
+      "pnl30dUsd": 28887,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 243797,
+      "trades": 91,
+      "followers": 300,
+      "wallets": {
+        "solana": "4AVJpncWUhQKbcnae6gdM3maCMsnriyR7GMdj13R91Bz",
+        "evm": "0x2aac1663913359dc6169bf34bae82eb050a38076"
+      }
+    },
+    {
+      "rank": 98,
+      "userId": "0bbcbac8-bab9-5de2-b166-bf91414a9f9a",
+      "handle": "TermiApes",
+      "displayName": "TermiApes",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/eafaf23f79427a8e5658f57add67ccef_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 28544,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 1572179,
+      "trades": 3359,
+      "followers": 1587,
+      "wallets": {
+        "solana": "9wC9oKxpyPZtZbr5c4bAXLzhMj99UeWFcti9brftstaf",
+        "evm": "0xc808dfa7058be34e56d2265c367fdf27b8ae9fe3"
+      }
+    },
+    {
+      "rank": 99,
+      "userId": "8cfd8d20-d653-53f6-b6e2-219e1d6431b9",
+      "handle": "ihatemobiletrading",
+      "displayName": "ihatemobiletrading",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/a1d64fe663fab3aad27a87e80860861d_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 28523,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 110978,
+      "trades": 243,
+      "followers": 588,
+      "wallets": {
+        "solana": "3ZTvLMapGRTwfWmvgqsNTBHRm5yPSk83Q7Y14VG4WxuA",
+        "evm": "0x17fa4770530e9bc479df991e38bb417fe01a0b3f"
+      }
+    },
+    {
+      "rank": 100,
+      "userId": "4741c932-1988-5be8-be3c-7b458b97c26b",
+      "handle": "aurafarmer_",
+      "displayName": "Giga Chad",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/2a6147d8848750a3e8189a0f36e63fda_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 28388,
+      "pnl7dUsd": 26278,
+      "pnlAllUsd": null,
+      "volumeUsd": 43674,
+      "trades": 175,
+      "followers": 275,
+      "wallets": {
+        "solana": "EYthE6pzYP9ZK4bVCsKu3Ujeqhew8DQ71fr8tCBcwJ5H",
+        "evm": "0xaeaa8052f942ff4b9bec6098f8f35e76c96a40d2"
+      }
+    },
+    {
+      "rank": 101,
+      "userId": "2292e89a-3ba1-52ba-af2d-f0017af85203",
+      "handle": "fizzwickBW",
+      "displayName": "Fizzwick Bramblewhistle",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/4a776bd775ef582cad247a0dff10959a_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 28292,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 670108,
+      "trades": 422,
+      "followers": 2857,
+      "wallets": {
+        "solana": "HjQzJs1kvWCzoZhRWA4MLFmDqZX6Z5k5byqj56HgSPLk",
+        "evm": "0xc5e35ce130bea27e223cfcc7705c5f24ff225137"
+      }
+    },
+    {
+      "rank": 102,
+      "userId": "6f8ea71a-029f-58a7-b2f5-c1fe1bf0903b",
+      "handle": "MichaelLerro",
+      "displayName": "Michael Lerro",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/7ce4362ed292074786960c149f90b6b7_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 28034,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 313328,
+      "trades": 726,
+      "followers": 2101,
+      "wallets": {
+        "solana": "3GKLWAVj8tEtun8cGAdsYSZTsuspjKE2dtUSFPzBj6dZ",
+        "evm": "0xd99c8acffb2103998dbe4dd71aa8a1d84a9faf3b"
+      }
+    },
+    {
+      "rank": 103,
+      "userId": "53af8d02-a567-57f8-90fa-3080f4568463",
+      "handle": "okuracrypto",
+      "displayName": "Okura",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/20668cac82d36391cf60ab521aeb7b78_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 27733,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 698341,
+      "trades": 233,
+      "followers": 9794,
+      "wallets": {
+        "solana": "tKNFhj5kf7GE59FRoPNFcjXEjBxtfPHPkTEHTwxaArC",
+        "evm": "0x31e1f95e17e4a8b60e76b40f13c0b79c64d5963c"
+      }
+    },
+    {
+      "rank": 104,
+      "userId": "8a4763bc-7de0-544d-a6c1-7ab93033a98d",
+      "handle": "RVRR",
+      "displayName": "RVRR",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/f99efced8b7bb12c28f65e33b937fce6_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 27608,
+      "pnl7dUsd": 25772,
+      "pnlAllUsd": null,
+      "volumeUsd": 35166,
+      "trades": 204,
+      "followers": 181,
+      "wallets": {
+        "solana": "G6VNu9aYvL64mVKCNS6Mhx12oxiLnh5Pq3ML5pQVv1Fu",
+        "evm": "0xbfba2c0932e0888d187ff110d84c7e873b2e27bb"
+      }
+    },
+    {
+      "rank": 105,
+      "userId": "6ed33ce0-454e-5b75-92eb-6e2d769662c5",
+      "handle": "splashhh",
+      "displayName": "splashhh",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/6d3b0d3af26959a03ed3a97158ba6656_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 27546,
+      "pnl7dUsd": 26813,
+      "pnlAllUsd": null,
+      "volumeUsd": 323594,
+      "trades": 461,
+      "followers": 366,
+      "wallets": {
+        "solana": "C9zeCV8QbPgegMmLfJyfDutE1VhuPfLgxjM1XTxejNuj",
+        "evm": "0xe6ad90313bd8df4cc4e5d3e35fc8137015b3a33f"
+      }
+    },
+    {
+      "rank": 106,
+      "userId": "aea5530b-cb94-516b-9280-cc470860ea47",
+      "handle": "lightningrat",
+      "displayName": "lightning rat",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/1c9540c393df3f85b3b27269c296a45c_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 27532,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 222412,
+      "trades": 76,
+      "followers": 1317,
+      "wallets": {
+        "solana": "HvkYZwMmcy81aX2RKo7qz4zWp7XNCyZpdyrvLqTvasmB",
+        "evm": "0xdc484db2702ef39e5a4787eb2127ef51c9a4671b"
+      }
+    },
+    {
+      "rank": 107,
+      "userId": "8de0595d-0c64-5ca1-8a0c-364bd3196d11",
+      "handle": "notEezzy",
+      "displayName": "Eezzy 🧸",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/ec766b2dcec21f5492df582a9ca74cf3_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 27480,
+      "pnl7dUsd": 17615,
+      "pnlAllUsd": null,
+      "volumeUsd": 528677,
+      "trades": 708,
+      "followers": 1699,
+      "wallets": {
+        "solana": "GSGgdChrQ8YAwuYeizaPve7gP2A5mbnUFFCQ7jACWYTX",
+        "evm": "0x900f21906e735fd61864dd62decc643300e733f1"
+      }
+    },
+    {
+      "rank": 108,
+      "userId": "88a45132-b56d-536c-a4f3-53f50907fe6a",
+      "handle": "ciaosononiky",
+      "displayName": "Nicolò",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/a63886e3d31f60a65f224d98bc247fdc_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 26941,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 559638,
+      "trades": 727,
+      "followers": 2365,
+      "wallets": {
+        "solana": "8ia4P9k56ELLquxehYZy33ptMQ8hDTdxCcn3pYhk2ihf",
+        "evm": "0xec05379c293fc6f1a47965666ee83dac8b366210"
+      }
+    },
+    {
+      "rank": 109,
+      "userId": "2553061b-9d16-5456-a845-21fc11b91300",
+      "handle": "sebbie369",
+      "displayName": "Se₿astos",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/6937dc0442b21df25364716c4bb3db1b_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 26487,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 137636,
+      "trades": 225,
+      "followers": 785,
+      "wallets": {
+        "solana": "45U3eoWcLdukz35EyNqQkV4po8oCuivpbebG7ktfk1fn",
+        "evm": "0x678c599a1e0f71d34daf7ece597b045cced416f5"
+      }
+    },
+    {
+      "rank": 110,
+      "userId": "6875d42f-1d69-5c82-937e-7912d55d193b",
+      "handle": "Divines",
+      "displayName": "Divine",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/e0113cec1f115fd11e738e971fe73e15_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 26347,
+      "pnl7dUsd": 22562,
+      "pnlAllUsd": null,
+      "volumeUsd": 33189,
+      "trades": 655,
+      "followers": 817,
+      "wallets": {
+        "solana": "8nuVyVjw7S2K4U632qaVpevfYggkGPGUhcMJkWqPrLyi",
+        "evm": "0xc1399ac9552267a5210783c489b3c94108d6c1a3"
+      }
+    },
+    {
+      "rank": 111,
+      "userId": "d95953e1-79bb-595e-81bb-2dbfc71874ca",
+      "handle": "jr1214",
+      "displayName": "jr1214",
+      "avatar": "",
+      "pnl30dUsd": 26095,
+      "pnl7dUsd": 16800,
+      "pnlAllUsd": null,
+      "volumeUsd": 238931,
+      "trades": 660,
+      "followers": 142,
+      "wallets": {
+        "solana": "EvkHXjX7vqDe2F4Bzg72Hyo5A3KzZUGWz8ooMjVJvYbj",
+        "evm": "0xcc6edc79465792b37f0692a43c12b7b572c14cba"
+      }
+    },
+    {
+      "rank": 112,
+      "userId": "89c358fa-844d-5743-89d8-1ecf9bc4beb0",
+      "handle": "VocalNavalPony",
+      "displayName": "VocalNavalPony",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/cfa6ddf5fbeb2cd6eeb2a4b7886d5dba_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 26026,
+      "pnl7dUsd": 24714,
+      "pnlAllUsd": null,
+      "volumeUsd": 89977,
+      "trades": 411,
+      "followers": 168,
+      "wallets": {
+        "solana": "mX2r82D97sbPMjh38jtFZw33TGRjwtdiww24RYt6qPC",
+        "evm": "0x2da7b1e8b42c4f9ed636fd57da8ff45f91a2a860"
+      }
+    },
+    {
+      "rank": 113,
+      "userId": "156f6a7a-d1c9-58d5-9bf2-b1d77fe19783",
+      "handle": "Cristian17988",
+      "displayName": "Cristian17988",
+      "avatar": "",
+      "pnl30dUsd": 25991,
+      "pnl7dUsd": 22812,
+      "pnlAllUsd": null,
+      "volumeUsd": 3806,
+      "trades": 80,
+      "followers": 169,
+      "wallets": {
+        "solana": "F382uqvrYhEJKr8FF95BsDJQ1XjsFYjj4QVJxbXRMoGg",
+        "evm": "0x798c2c061d72eb11ce129c543083ad8e3b6ad160"
+      }
+    },
+    {
+      "rank": 114,
+      "userId": "75d0a6c7-22b0-5194-aa97-15f6a6c2bc6a",
+      "handle": "chartninja",
+      "displayName": "ChartNinja",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/eb8780a2931e659fb210fcbf8a107133_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 25727,
+      "pnl7dUsd": 23363,
+      "pnlAllUsd": null,
+      "volumeUsd": 109945,
+      "trades": 813,
+      "followers": 374,
+      "wallets": {
+        "solana": "FtdJ1VCem5qNMZ8hDCUotcQxUYgXsiqMQU3yHK86YnhQ",
+        "evm": "0x827c616677a952d0f925138c990b4bc67cb33454"
+      }
+    },
+    {
+      "rank": 115,
+      "userId": "e0ef803a-773e-53db-bc03-5e4db6cee6fd",
+      "handle": "BeatDaOddz",
+      "displayName": "Beatdaoddz",
+      "avatar": "",
+      "pnl30dUsd": 25392,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 71473,
+      "trades": 12,
+      "followers": 424,
+      "wallets": {
+        "solana": "Hiq1uGKvAgYBa9YoZNiLz7emctza7zCcJwmejLGA4G6E",
+        "evm": null
+      }
+    },
+    {
+      "rank": 116,
+      "userId": "170b0e53-d474-5726-898f-7a81495f2e72",
+      "handle": "rustyrhey",
+      "displayName": "RVSTYLPZ",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/fcfab9a3a9677743d70fa7ebe60dd74f_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 25231,
+      "pnl7dUsd": 18816,
+      "pnlAllUsd": null,
+      "volumeUsd": 39008,
+      "trades": 348,
+      "followers": 669,
+      "wallets": {
+        "solana": "6bdtFumJ41wiSEQFwdR9HRUcNCD3thL5LpCnZhwZSk2N",
+        "evm": "0xb921f76e849f7cd6ba3fd9e180e59c13d41f6fc3"
+      }
+    },
+    {
+      "rank": 117,
+      "userId": "897eda84-5986-5b6b-8a5e-67eff735f0c5",
+      "handle": "ReturnOfHam",
+      "displayName": "ReturnOfHam",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/02817bc9ff8f21013a01a6deb17eacfd_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 25037,
+      "pnl7dUsd": 21867,
+      "pnlAllUsd": null,
+      "volumeUsd": 80924,
+      "trades": 476,
+      "followers": 659,
+      "wallets": {
+        "solana": "HM5DENC4CyYD3gYcGJ3M6NLsJJHgnuSi6e7Bk7iJTbaZ",
+        "evm": "0x5c87ac8cbb9efaf9bc409aac21f72ea84ddc7b78"
+      }
+    },
+    {
+      "rank": 118,
+      "userId": "1ccc296a-215d-534b-97bf-bbef7e9a436b",
+      "handle": "THe_oNe1",
+      "displayName": "THe_oNe1",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/7dced50caa72b2aeafa3f4e046b20083_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 25013,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 57388,
+      "trades": 93,
+      "followers": 142,
+      "wallets": {
+        "solana": "CwsjQxMwWrBhsCVGWRtidrXQC2YUXcNqHtUbBmC1NLhr",
+        "evm": "0x95070a8d9fc29fb3687d327fe9c2ea1d75dee58b"
+      }
+    },
+    {
+      "rank": 119,
+      "userId": "83b68785-4941-5790-9a02-a1f853bc4c97",
+      "handle": "Krmi",
+      "displayName": "Krmi",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/5385512f29e591a889469873dbf4ac17_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 24449,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 552263,
+      "trades": 1485,
+      "followers": 1031,
+      "wallets": {
+        "solana": "6bbdG6BVv49tonrKcFSGCmRenyfP8zU1EEPNq3DsmxdQ",
+        "evm": "0x2c5ab5a0ead0c980d6a1c27f4ec9b056bdaa0aca"
+      }
+    },
+    {
+      "rank": 120,
+      "userId": "7e68fac1-5c48-545c-8a18-893754817fcb",
+      "handle": "michealdop",
+      "displayName": "michealdop",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/6d964b4a1ba031bee3c8d4ac9a711650_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 24431,
+      "pnl7dUsd": 22549,
+      "pnlAllUsd": null,
+      "volumeUsd": 15090,
+      "trades": 93,
+      "followers": 554,
+      "wallets": {
+        "solana": "AfBaoUhmadpyVEf1nrpE3MF5WJWiAs9gKkNU4tFWCeqV",
+        "evm": "0x371c2aec8f1a85dd11c0589571ea92efbc0cee0e"
+      }
+    },
+    {
+      "rank": 121,
+      "userId": "dd55fdd0-39c3-57e6-9b90-32cf70ee135e",
+      "handle": "KSJ_",
+      "displayName": "KSJ 🌀",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/9b5e68bc9b1f1d2a37994ace885f5b04_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 23817,
+      "pnl7dUsd": 26201,
+      "pnlAllUsd": null,
+      "volumeUsd": 12950534,
+      "trades": 711,
+      "followers": 4535,
+      "wallets": {
+        "solana": "G9YjAaxuGEgKVc1FA7jJED4N5vhJGfX8ZGdGB9tAt2Wt",
+        "evm": "0xaac553dad379ebc38272d3c36d657f899fbe0680"
+      }
+    },
+    {
+      "rank": 122,
+      "userId": "dfdda4f0-29be-5238-83eb-99ba8a9d73fb",
+      "handle": "Souul",
+      "displayName": "Souul",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/7072af019460a0de92bc3c9ce6667767_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 23744,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 143731,
+      "trades": 94,
+      "followers": 1462,
+      "wallets": {
+        "solana": "BGEB3szbZAJmFMKLkiYCnvMYzempWFvhof1aYetn4zJu",
+        "evm": "0x0e927071712b7c48ba6fd1d35d468f3c12a487c5"
+      }
+    },
+    {
+      "rank": 123,
+      "userId": "c3129d3f-aaaa-5b0c-9adb-f3dce5cfbdd9",
+      "handle": "elonmusk1",
+      "displayName": "elonmusk1",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/78cc2cb4c3265ec8a0c9a5ddf654b47d_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 23660,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 1268224,
+      "trades": 964,
+      "followers": 2416,
+      "wallets": {
+        "solana": "9oZUtKEuabX6meWDaBnYocKXF3PhqEFeSWq4jNFobsqX",
+        "evm": "0x445fc4db3fb59bae8baff6216938f0bf7b9e3724"
+      }
+    },
+    {
+      "rank": 124,
+      "userId": "a1a13516-71ce-5191-8b55-089125ade8a1",
+      "handle": "loganlim_x",
+      "displayName": "Logan Lim",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/e07cf12864bc315490934513347ff8f6_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 23618,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 22029296,
+      "trades": 6673,
+      "followers": 132029,
+      "wallets": {
+        "solana": "JDFDma1TMb1tWNFY1pruwCsHBybMdzwxveythZB2dcaG",
+        "evm": "0x8224c04a8f66557df682fd0581eb3724bd2bee07"
+      }
+    },
+    {
+      "rank": 125,
+      "userId": "b2310cdc-86b2-5195-9baf-cb2a65d0dcea",
+      "handle": "WatermelonDaddy",
+      "displayName": "Gho$t Rid€r",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/66d0f3ad9f1551555745bd6cf1715de9_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 23600,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 197609,
+      "trades": 449,
+      "followers": 1312,
+      "wallets": {
+        "solana": "CjcQxhrq8vgWrt4nKavSfv4t5gQKA6F1SSxvwAeEygbS",
+        "evm": "0x26dfb8d8fb6c04b282bb543a606f1d58283b8b73"
+      }
+    },
+    {
+      "rank": 126,
+      "userId": "4bd490f1-a7e1-5e22-92a6-b0a784669c28",
+      "handle": "Jeff___86",
+      "displayName": "MetaJeff_86 🇧🇪 |",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/436546cc015fccc132cd6d932f2d6bff_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 23574,
+      "pnl7dUsd": 20906,
+      "pnlAllUsd": null,
+      "volumeUsd": 760545,
+      "trades": 2148,
+      "followers": 1258,
+      "wallets": {
+        "solana": "GNK5wwYHzBUUpJPzPbZJ8owZVgEy6pmtfkd2QwM27PG6",
+        "evm": "0x863a00abe4231caa31a7f44d919f1c7233767524"
+      }
+    },
+    {
+      "rank": 127,
+      "userId": "400f7a02-644c-5f46-bd5b-b3a0f79beeb8",
+      "handle": "BlackHoleGravitySwirl",
+      "displayName": "BlackHoleGravitySwirl",
+      "avatar": "",
+      "pnl30dUsd": 23455,
+      "pnl7dUsd": 23562,
+      "pnlAllUsd": null,
+      "volumeUsd": 141049,
+      "trades": 334,
+      "followers": 633,
+      "wallets": {
+        "solana": "G38FKWiXpHTftkZGSAT82HvrLzjrXZhKRKSLfWue2AQL",
+        "evm": "0x8ce635d06a9ed31a8ceb97439682c3a4dc048358"
+      }
+    },
+    {
+      "rank": 128,
+      "userId": "45f8ca20-3708-5c34-a0e9-d7b64030b889",
+      "handle": "mowtari",
+      "displayName": "Mow",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/aa2a3469d1372385377d784eca98443f_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 23381,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 909699,
+      "trades": 581,
+      "followers": 2056,
+      "wallets": {
+        "solana": "H11BgsE5NTW4bJhTyCSvFZ5KJcf3yadGUofH8vSiCRHi",
+        "evm": "0x8bfba23d4217f7a987f981648227ff5de927c517"
+      }
+    },
+    {
+      "rank": 129,
+      "userId": "b6bf400d-f7dc-5455-964b-13a30b1f70ac",
+      "handle": "MuddyCyanTrout",
+      "displayName": "MuddyCyanTrout",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/519bb9e11070db120cbdf80244541290_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 23371,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 1681717,
+      "trades": 528,
+      "followers": 480,
+      "wallets": {
+        "solana": "4PKZ8QgxgW5NdPQQTN79y1X2jQXRXdYpR9FX6mLAGyyZ",
+        "evm": "0x9a6eb7a93ffc747177e6f84898d3f949c40394fb"
+      }
+    },
+    {
+      "rank": 130,
+      "userId": "bb8fdc18-1c36-53af-9ea8-ef8f6b36f3e8",
+      "handle": "abbcdefg",
+      "displayName": "abbcdefg",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/8613bc3e0b03409626fcac4cb84eb677_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 23352,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 370847,
+      "trades": 343,
+      "followers": 1076,
+      "wallets": {
+        "solana": "GD9A7ihU5wMNb2HstTNza5qYSzah5uoBpg9Qmp2huiB6",
+        "evm": "0xf0366c65fbd5f8540bd8e209c79b05498b6eeb07"
+      }
+    },
+    {
+      "rank": 131,
+      "userId": "6723feb2-6d7f-5db3-a676-ea186ab75d60",
+      "handle": "grumpy",
+      "displayName": "grumpy",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/d7a93d580f554c3695824477b96cbf75_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 23179,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 7490,
+      "trades": 55,
+      "followers": 603,
+      "wallets": {
+        "solana": "FHSjQaWAUU9JD4FQrYSyRr2uabDb1AVMnmHRBLVGFLZq",
+        "evm": "0xc40656133199fcf7ad533fdb19deb3af74d610c7"
+      }
+    },
+    {
+      "rank": 132,
+      "userId": "2e353a39-d25f-569f-bf5a-3094a4ae1dff",
+      "handle": "jxmansol",
+      "displayName": "jxmansol",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/b0467e0e660546dd070392dc17e2818a_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 23001,
+      "pnl7dUsd": 23009,
+      "pnlAllUsd": null,
+      "volumeUsd": 121728,
+      "trades": 45,
+      "followers": 373,
+      "wallets": {
+        "solana": "41iazUQu9mUHCN86d1oGsExVuQS2XYbQyD9tCPU2KXJa",
+        "evm": "0xc144127d299c548522c0b7619a4a010c8a0a7b04"
+      }
+    },
+    {
+      "rank": 133,
+      "userId": "921107ae-b3e0-5d1a-9077-872158119c14",
+      "handle": "vascodicaprio",
+      "displayName": "Vasco",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/3433ded82c3f51791c312e67b9b59bed_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 22986,
+      "pnl7dUsd": 15036,
+      "pnlAllUsd": null,
+      "volumeUsd": 3409092,
+      "trades": 3329,
+      "followers": 5338,
+      "wallets": {
+        "solana": "Xk9onqHkpULDEYYN9ZPyM7Q9AfTNYUrsCkzywyqdMeb",
+        "evm": "0xe3f2fc68992d6a80953fa84f6fe7ee9747e20e2e"
+      }
+    },
+    {
+      "rank": 134,
+      "userId": "8d634178-dd86-5ae1-8816-6475393f60b1",
+      "handle": "ManyCloseLlama",
+      "displayName": "fish",
+      "avatar": "",
+      "pnl30dUsd": 22565,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 153603,
+      "trades": 461,
+      "followers": 115,
+      "wallets": {
+        "solana": "7EkQs7JJ3pBdUCRQma3MQYMjpUpPtsfUCJoQCc6fF6An",
+        "evm": "0x3d5e73a57d98f7f162aebbc5faa5e3bfbdf7943d"
+      }
+    },
+    {
+      "rank": 135,
+      "userId": "54579323-1d05-5af9-ba4c-823d256664f2",
+      "handle": "Tangi",
+      "displayName": "Tangie",
+      "avatar": "",
+      "pnl30dUsd": 22341,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 24731,
+      "trades": 171,
+      "followers": 3438,
+      "wallets": {
+        "solana": "HNRrCtmMiJKHTUFA3PTpitiyCuTSRrjY4DqXUNuG9fC4",
+        "evm": "0x21ee000ce0df682b228b1f2f80427f5659bc83d8"
+      }
+    },
+    {
+      "rank": 136,
+      "userId": "8f53b639-4156-5444-ae10-8e4dbb64e1aa",
+      "handle": "xwickdd",
+      "displayName": "xwickdd",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/1c0f98ddca6a02369abf0cdb3ade1ecf_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 22302,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 142210,
+      "trades": 227,
+      "followers": 884,
+      "wallets": {
+        "solana": "GSQcJTMUoRxAPxp8P6SzYuG5WnmvTP5rWfXgZo8Bp4n5",
+        "evm": "0x5c87ab39154e7b4e6ec673f0d263fa2b3c38b1d1"
+      }
+    },
+    {
+      "rank": 137,
+      "userId": "1cd906e4-359d-538b-b459-c69b6d21e369",
+      "handle": "0xkazamakis",
+      "displayName": "Bob Kazamakis",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/82cf46f314ff3db518dcdabd9c0ea9ca_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 22158,
+      "pnl7dUsd": 22158,
+      "pnlAllUsd": null,
+      "volumeUsd": 0,
+      "trades": 3,
+      "followers": 198,
+      "wallets": {
+        "solana": null,
+        "evm": "0xb728fed75104089a8b20f0a12c0ccf72d23e3069"
+      }
+    },
+    {
+      "rank": 138,
+      "userId": "44bd120e-37e2-5d27-80b1-e44f2598aa1f",
+      "handle": "tried",
+      "displayName": "‎ ‎",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/1685d89648f36c9a8b69ce1e4e73ef8e_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 21964,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 1068514,
+      "trades": 2183,
+      "followers": 3489,
+      "wallets": {
+        "solana": "4xP2DwRx5yEibFKZ9sRuf14SXanLPXMuAy4y35xCJPS",
+        "evm": "0xc348053c2d44c56f9c4329f1c0b58005c226eee4"
+      }
+    },
+    {
+      "rank": 139,
+      "userId": "0a7d324d-792a-5617-9cc4-4b41cc1f99c7",
+      "handle": "BoughtEm",
+      "displayName": "BoughtEm",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/b1050e1dfddd144bed9504fc78951e0f_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 21830,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 346149,
+      "trades": 367,
+      "followers": 452,
+      "wallets": {
+        "solana": "BE7oDsS7q7L5mnD9EctFjenLHb2bUyrUs1EQ7qTiQvHM",
+        "evm": "0x04D964f0105E9AB0049f5Ac617C5488b1C85cF05"
+      }
+    },
+    {
+      "rank": 140,
+      "userId": "c2984d07-169f-5498-ab24-7adfb6ab13c8",
+      "handle": "redzzk1",
+      "displayName": "bogus",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/500c5deba33262accffc53851e5bdacf_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 21468,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 4510348,
+      "trades": 10238,
+      "followers": 175,
+      "wallets": {
+        "solana": "ArB1vFG6doHSAvp5ktpcpiuJbwAC15bxQtfwENiujJ8G",
+        "evm": "0xce6c1be92088b62e4bc075f291b7037ae1566673"
+      }
+    },
+    {
+      "rank": 141,
+      "userId": "ad63d259-4624-5ebc-aefa-195433cc7fd0",
+      "handle": "wild21",
+      "displayName": "WILD 21",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/8a24d64a2bb55cb0620753127008e3c3_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 21263,
+      "pnl7dUsd": 42027,
+      "pnlAllUsd": null,
+      "volumeUsd": 28229,
+      "trades": 48,
+      "followers": 1193,
+      "wallets": {
+        "solana": "A77uTqzzLG2V49tSryaoEPvg79bFAzEDSskwrGPxyqYo",
+        "evm": "0xbd29be9677158e9c564759d4280077254460695d"
+      }
+    },
+    {
+      "rank": 142,
+      "userId": "34f0fd71-b4f7-5aa6-81c4-50e2c2dfc8da",
+      "handle": "PaleOrbit",
+      "displayName": "PaleOrbit",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/b5037315f94e9363e3a842754be27add_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 21198,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 0,
+      "trades": 8,
+      "followers": 490,
+      "wallets": {
+        "solana": null,
+        "evm": "0x79f92041b0fdcba7c83489694ba2e54e3346c19d"
+      }
+    },
+    {
+      "rank": 143,
+      "userId": "815f9b05-cd6d-5431-9fcc-cd22b96fc108",
+      "handle": "shalla555",
+      "displayName": "shalla555",
+      "avatar": "",
+      "pnl30dUsd": 21044,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 252033,
+      "trades": 448,
+      "followers": 132,
+      "wallets": {
+        "solana": "2YGvLuaJRgZkonzFj7KW6UJHdmwsP4SWvpgpUn9wmJaF",
+        "evm": "0x1a6423a090654d1f8ab907e72c751addf9d41469"
+      }
+    },
+    {
+      "rank": 144,
+      "userId": "b94b8f7c-cafa-5fa8-80e9-d159f34e70d1",
+      "handle": "Cryptobud",
+      "displayName": "Cryptobud",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/af31ccc675e26267ad2d2530d2da33bb_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 20879,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 620538,
+      "trades": 728,
+      "followers": 383,
+      "wallets": {
+        "solana": "A5e5q8djsbnJk8RReSagQCDC6Gj4krT55regGTh9YKrt",
+        "evm": "0xa515cbc82a384eed4f49413d18e371b1b3a3c1a5"
+      }
+    },
+    {
+      "rank": 145,
+      "userId": "6f9e870c-250c-5252-9898-51d022de5715",
+      "handle": "imajustkillmyself",
+      "displayName": "sofunny",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/a4e43485a61aea3061f9361431c5b9ec_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 20558,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 1267292,
+      "trades": 628,
+      "followers": 610,
+      "wallets": {
+        "solana": "224WBvQho5qq9wVMjwevHsz2on5G4h2DGhp9GZLVE5Nt",
+        "evm": "0x7b53a9f8d6894dd650cdc20c1a978e083be9d793"
+      }
+    },
+    {
+      "rank": 146,
+      "userId": "584b31ed-2d23-5fed-bf82-6644b976fc61",
+      "handle": "_RAMBO_",
+      "displayName": "JOE",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/991296e70abab63cf984f1aca0fd31ad_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 20496,
+      "pnl7dUsd": 18086,
+      "pnlAllUsd": null,
+      "volumeUsd": 38684,
+      "trades": 294,
+      "followers": 156,
+      "wallets": {
+        "solana": "Bx1QXaz1es1XsRjhAQcT6it1y81MXhe7qMBGmj9knF5B",
+        "evm": "0x4366cec67e8faa2d0df7996de4f2c970174709f7"
+      }
+    },
+    {
+      "rank": 147,
+      "userId": "64d26c6b-7608-5b60-aeaf-9d8dfcd30c69",
+      "handle": "extreme005",
+      "displayName": "E><tre|\\/|e WASTED",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/d83fee316cac67c0f29ee654097233ad_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 20486,
+      "pnl7dUsd": 20345,
+      "pnlAllUsd": null,
+      "volumeUsd": 19186,
+      "trades": 33,
+      "followers": 138,
+      "wallets": {
+        "solana": "E62vNvzvXzyhBaBBYZ112RRd8fmUZW15DNtK44K34TGD",
+        "evm": "0xa9d4897380572d55b5bc14c8e88cce36487717e8"
+      }
+    },
+    {
+      "rank": 148,
+      "userId": "89a7e826-a14c-58f2-a1a6-7251f964a803",
+      "handle": "VitalFunBass",
+      "displayName": "VitalFunBass",
+      "avatar": "",
+      "pnl30dUsd": 20440,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 209142,
+      "trades": 107,
+      "followers": 748,
+      "wallets": {
+        "solana": "HxuTy5vmJF5LcHjF357JbvD3aE7eDNLiVFwfPVKTxetJ",
+        "evm": "0xf9b3bf46aece81d006f74920cb4aeb6c5986d49d"
+      }
+    },
+    {
+      "rank": 149,
+      "userId": "75e0262a-b01e-508b-aac1-48297460e43a",
+      "handle": "Libre",
+      "displayName": "Liberty Logic",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/825ff9dbbe775801d460adef678dfd58_small.jpg?k=319gWD4eijcysJjkvT3TI6DIA",
+      "pnl30dUsd": 20261,
+      "pnl7dUsd": null,
+      "pnlAllUsd": null,
+      "volumeUsd": 676600,
+      "trades": 252,
+      "followers": 363,
+      "wallets": {
+        "solana": "G2AB5HuTUkqRupqWKYfyzMhJHqxaE3TzRC7uHzMg4cDD",
+        "evm": "0x30d2ebfc06e86c05ce3270f116a25aa0603d27c5"
+      }
+    },
+    {
+      "rank": 150,
+      "userId": "82e42a6d-7b19-59da-8f78-9f61dcf41c6c",
+      "handle": "heat",
+      "displayName": "heat",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/aac674476e39ecfc7f1d200dc760becb_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 235172,
+      "pnlAllUsd": null,
+      "volumeUsd": 6484730,
+      "trades": 722,
+      "followers": 114378,
+      "wallets": {
+        "solana": "EwJYY4q2rcrdEH26doRbYX9JxbpYPSNZvRLgzhPKi418",
+        "evm": "0xe827d8e091a0a5f44981f188f7faf8b43c5f9a5f"
+      }
+    },
+    {
+      "rank": 151,
+      "userId": "79513370-6087-5989-bcba-5c23f235a862",
+      "handle": "DONBAGS",
+      "displayName": "DONBAGS",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/4ae0068485986e9da84a81d6fa92c9da_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 114452,
+      "pnlAllUsd": null,
+      "volumeUsd": 1313637,
+      "trades": 530,
+      "followers": 67058,
+      "wallets": {
+        "solana": "CGJfygZNh1jQqcrXJXRub1TNVt3FyMhG8n9y6v6fJ98d",
+        "evm": "0x866f61c478c77b898f9ae10b7ac4a4f85df6ef29"
+      }
+    },
+    {
+      "rank": 152,
+      "userId": "b79d2997-49a4-5e32-9653-ab62cd43a07f",
+      "handle": "moom123",
+      "displayName": "moom123",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 90508,
+      "pnlAllUsd": null,
+      "volumeUsd": 110297,
+      "trades": 8,
+      "followers": 2683,
+      "wallets": {
+        "solana": "A6HYqFdq6LE2Y9iW7mUXNt7WNXt7JMmzgPtHqBE4XJ7N",
+        "evm": "0x36198bb6408037141f0e7a628116a3badf54940c"
+      }
+    },
+    {
+      "rank": 153,
+      "userId": "0783a077-f9f4-5da3-a9a8-105ee0be9cfb",
+      "handle": "0xBEC001",
+      "displayName": "0xBEC001",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 82648,
+      "pnlAllUsd": null,
+      "volumeUsd": 1074903,
+      "trades": 328,
+      "followers": 13787,
+      "wallets": {
+        "solana": "83QpSeVuT2T1YhyRZ8ce5joLe6TBF7PjvyCPWhdFvzYt",
+        "evm": "0x9b1136a14ac6ea08e41343b9752e1bf12ebbdb77"
+      }
+    },
+    {
+      "rank": 154,
+      "userId": "aec1c1f6-b3a3-5d70-9ee5-1c9fb7c0aa4a",
+      "handle": "martinzz",
+      "displayName": "martin",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/1e52c7a467f2aa8494fa96db9fe14b79_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 65776,
+      "pnlAllUsd": null,
+      "volumeUsd": 1449290,
+      "trades": 433,
+      "followers": 4520,
+      "wallets": {
+        "solana": "EjYg45vzXt71WSCixvcvZt56adiXH1k72TRHo3r8yg9C",
+        "evm": "0x304cadcff60c06ab61ceab9ff504b6d4bdf5d030"
+      }
+    },
+    {
+      "rank": 155,
+      "userId": "159b4a73-34bd-57da-b3aa-a94ed413105d",
+      "handle": "JamJam0407",
+      "displayName": "JamJam0407",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/43ffb0f293bd1d90a350f5939740e3ed_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 62263,
+      "pnlAllUsd": null,
+      "volumeUsd": 28120,
+      "trades": 38,
+      "followers": 15923,
+      "wallets": {
+        "solana": "7wJuPD1Pj8g5xh5bwgqbYTc7G6nz7VBGJUCxHCBwcHeG",
+        "evm": "0x060cbefc4f8a7661cb91ac9c9f42f61702ca1cdf"
+      }
+    },
+    {
+      "rank": 156,
+      "userId": "a727717c-4da5-5df8-921c-2e221b669e7c",
+      "handle": "maxbax88",
+      "displayName": "Maxbax",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/7a81789573742cb771ffaaff4a14cb61_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 52286,
+      "pnlAllUsd": null,
+      "volumeUsd": 135516,
+      "trades": 214,
+      "followers": 5308,
+      "wallets": {
+        "solana": "JAJBDTMVYEWUScmUiqwbqUFMwQytSKYo97Sv6qTUChso",
+        "evm": "0x72c13ead292cadacd0e52aec0d89a9758bb00ec3"
+      }
+    },
+    {
+      "rank": 157,
+      "userId": "6bc28d7a-6a3b-5029-864b-1261f2a1c944",
+      "handle": "yuren477",
+      "displayName": "余人sama",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/35a514d68a9026bd8f01241f35d14412_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 46971,
+      "pnlAllUsd": null,
+      "volumeUsd": 497106,
+      "trades": 112,
+      "followers": 27010,
+      "wallets": {
+        "solana": "8PNdtcmjZGTz7XG8GnWLT1FsQns3D4AvDuXmjra5pHhc",
+        "evm": "0x8ce12b7d681d7b3d49086c38e7b852e75a349ec4"
+      }
+    },
+    {
+      "rank": 158,
+      "userId": "a3d6096e-59eb-5684-a9fe-0048e07a0eb4",
+      "handle": "DopamineFeenFr1",
+      "displayName": "DopamineFeenFr1",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/6a733fd6373b221e70b1bca389165cec_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 45790,
+      "pnlAllUsd": null,
+      "volumeUsd": 11882035,
+      "trades": 4687,
+      "followers": 91449,
+      "wallets": {
+        "solana": "FXr1GVAQtLoQHP25HZztqEfw1PBcDbvP6uJgEo7cdwEf",
+        "evm": "0xbdce13a1cadea23a61013fbfb470c7eef4ba9520"
+      }
+    },
+    {
+      "rank": 159,
+      "userId": "73fcc91e-e3c6-57ef-b0bd-d980b1277809",
+      "handle": "LeftAboveEagle",
+      "displayName": "LeftAboveEagle",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 44962,
+      "pnlAllUsd": null,
+      "volumeUsd": 1846514,
+      "trades": 1423,
+      "followers": 1278,
+      "wallets": {
+        "solana": "7boGMyPxcogdwYuywFkSbx34pmC732GDch3RxGieCyaQ",
+        "evm": "0xb7fc215e6346c2e80e340b79d6c83343608a013c"
+      }
+    },
+    {
+      "rank": 160,
+      "userId": "8500890c-8b6b-55ad-b56d-540b62c8a080",
+      "handle": "zeri_term",
+      "displayName": "zeri_terminal",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/28d012871411b5140be920fb093b9c7f_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 43943,
+      "pnlAllUsd": null,
+      "volumeUsd": 1602492,
+      "trades": 982,
+      "followers": 57353,
+      "wallets": {
+        "solana": "3hHvAzxMs6cMYU638oeg6cGp1C1tqRF1VPWnDEZddEhL",
+        "evm": "0xa562df7d4a58b34c226d4d45d58379d06d03cd3e"
+      }
+    },
+    {
+      "rank": 161,
+      "userId": "4c953767-eeff-50d7-bb6c-570fe8f1f4dd",
+      "handle": "scrollingbeauty",
+      "displayName": "scrollingbeauty",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/c5820684747f9eff5a007248ba963dfd_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 40176,
+      "pnlAllUsd": null,
+      "volumeUsd": 31719,
+      "trades": 72,
+      "followers": 6412,
+      "wallets": {
+        "solana": "Ey3u9fFN6zp5PKhpGnA2grHgzR7oXtnxHcDFfUXsK48c",
+        "evm": "0x7b5b5695fe1e6a6bec6403d266152d56d769ce13"
+      }
+    },
+    {
+      "rank": 162,
+      "userId": "ce39fa23-d8b4-5ebc-b2fb-4aaff8f92b21",
+      "handle": "zakum",
+      "displayName": "zakum",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/03a5d67d0061fa30d25e952c998fe386_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 36191,
+      "pnlAllUsd": null,
+      "volumeUsd": 1482330,
+      "trades": 893,
+      "followers": 13197,
+      "wallets": {
+        "solana": "BXLEfLN8bHsQCn81rFZebcavP1JSory1XbSDoeYQxJPc",
+        "evm": "0xaf0aade3250a1ea70a4fcfff15dce9f878e36cc0"
+      }
+    },
+    {
+      "rank": 163,
+      "userId": "4614d0dd-93d8-5525-b48d-43e42449dc58",
+      "handle": "NDF_Sonar_trade",
+      "displayName": "NFTDefiFutures",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/51b2458936c9f9e4e3b58803628e6b4b_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 34061,
+      "pnlAllUsd": null,
+      "volumeUsd": 2882558,
+      "trades": 991,
+      "followers": 32770,
+      "wallets": {
+        "solana": "9MsCdHnAb5PiHBCNkPXfvLYnNMppgdKknNr2RoYUdpVc",
+        "evm": "0x47b0d370a406192d592c65beae9ec2a953366c6b"
+      }
+    },
+    {
+      "rank": 164,
+      "userId": "526c8b1b-d873-594d-b27c-efabe06d6ecd",
+      "handle": "neetguy",
+      "displayName": "neetguy",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/7ddef1f1c2249dd5d1670d3786a78b89_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 33091,
+      "pnlAllUsd": null,
+      "volumeUsd": 719696,
+      "trades": 234,
+      "followers": 10280,
+      "wallets": {
+        "solana": "8fR8rFuNvKg9Y2B19nwei9W9xRY3ViD3bhyLytD1V8CM",
+        "evm": "0xd0bb0c1972a1e6585525e1c4267d583b5fca7de4"
+      }
+    },
+    {
+      "rank": 165,
+      "userId": "57c67a5c-5893-5194-8210-73edc4215762",
+      "handle": "potatmayne",
+      "displayName": "GooseMasterFlex :: NWO",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/46ffb1829d25b0da05c769f06738872e_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 32072,
+      "pnlAllUsd": null,
+      "volumeUsd": 80378,
+      "trades": 20,
+      "followers": 5103,
+      "wallets": {
+        "solana": "4vZ66F2Rv7y9o97ebS1opSmUBYKGgjcuFU58Z1f5jdMt",
+        "evm": "0xbae102b0c3409b80d089895766af27621ba6f3be"
+      }
+    },
+    {
+      "rank": 166,
+      "userId": "df62d046-22f9-5a4f-9624-fab88ff3085e",
+      "handle": "epic_bull",
+      "displayName": "I can make it",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/3ab71c70fd08e85c539383e338fa1279_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 31772,
+      "pnlAllUsd": null,
+      "volumeUsd": 431711,
+      "trades": 546,
+      "followers": 496,
+      "wallets": {
+        "solana": "42erMfZKcZtRz1K2v7yxa5DJWoHEhLbreq7kboLGdT7o",
+        "evm": "0xa369692e203be3011fa7bca9fd0daf7498aeaed8"
+      }
+    },
+    {
+      "rank": 167,
+      "userId": "12d4e014-da1a-5718-81dc-b2c54a914708",
+      "handle": "catalogkings",
+      "displayName": "catalogkings",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/320c8d887c09dc68c5de587e0e7991ae_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 31273,
+      "pnlAllUsd": null,
+      "volumeUsd": 6239,
+      "trades": 10,
+      "followers": 4319,
+      "wallets": {
+        "solana": "H69NbP4a6Cs3c9V331E52nMBZ7NA8mjpm2rEnh8aVCge",
+        "evm": "0x5f273a8264c0922e770703ee5f344ce9e326719e"
+      }
+    },
+    {
+      "rank": 168,
+      "userId": "f641c2a7-d6cb-564b-8ad3-c1cf6d25208d",
+      "handle": "healthysmilee",
+      "displayName": "healthysmile",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/f745232066a6d39f1e0e3a6df989eb8d_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 29377,
+      "pnlAllUsd": null,
+      "volumeUsd": 99337,
+      "trades": 161,
+      "followers": 2937,
+      "wallets": {
+        "solana": "wwcoyMvQucHLmbbwQhuNWs4dgAB7sfKtQnTLL1SzKf5",
+        "evm": "0xcab32afc55e0c9b324db1af0f2e52bc2c805333a"
+      }
+    },
+    {
+      "rank": 169,
+      "userId": "be8c35de-9b88-5110-9518-9e39bfa4735b",
+      "handle": "PlugC",
+      "displayName": "PlugC",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/21b1db36be650dfa1e98149c80fc5aed_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 28867,
+      "pnlAllUsd": null,
+      "volumeUsd": 4002,
+      "trades": 21,
+      "followers": 3682,
+      "wallets": {
+        "solana": "8BZjstu58fRKvZMAyRebGS62rPdvamYZ8CctGb7ksSAF",
+        "evm": "0xaeE1E0c265c2e1E8d852434AaDAF6a7B651AfCFB"
+      }
+    },
+    {
+      "rank": 170,
+      "userId": "43dba179-1072-5d94-a697-9b1315f196d1",
+      "handle": "officialpcs",
+      "displayName": "officialpcs",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/a1c83ac66c3fa42649457d99c244879b_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 28824,
+      "pnlAllUsd": null,
+      "volumeUsd": 10732040,
+      "trades": 5108,
+      "followers": 54267,
+      "wallets": {
+        "solana": "2VR13Sh1zxPjP2ufj94CkzigTT9kokBV2Ffu1PqVegRf",
+        "evm": "0xa37cd19f9a6fdcc323ba42fa498807b4212222f3"
+      }
+    },
+    {
+      "rank": 171,
+      "userId": "30ae65fa-6379-5695-a558-7d8517fecada",
+      "handle": "VividBroadSnake",
+      "displayName": "VividBroadSnake",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 28662,
+      "pnlAllUsd": null,
+      "volumeUsd": 906967,
+      "trades": 966,
+      "followers": 451,
+      "wallets": {
+        "solana": "AxV5e8X4XdHYHpPnTBX5PSiBu2U8BHSfddwPDs2fqGxa",
+        "evm": "0xd58bf510f64a54cb36c0b3c06185567f1caff35e"
+      }
+    },
+    {
+      "rank": 172,
+      "userId": "9ef48918-7da9-52dd-9647-165829bbaca7",
+      "handle": "0xnneged",
+      "displayName": "0xyyy1618",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/781dfff54c9c0f2cc5f509476bdbebfa_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 27087,
+      "pnlAllUsd": null,
+      "volumeUsd": 97858,
+      "trades": 175,
+      "followers": 1472,
+      "wallets": {
+        "solana": "H9TtRQTMzgwDarXCPgkT8yw7MotjGvJWZ854Z8Yn5CQE",
+        "evm": "0x387ea30a5263ca7e28c9c78459db0b4d1b7804b1"
+      }
+    },
+    {
+      "rank": 173,
+      "userId": "a4896e76-6540-572d-9691-dc06aa3b6136",
+      "handle": "Coin_Master_1",
+      "displayName": "Coin_Master_1",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/af7f96157507a407d759ddf20daa49d4_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 25549,
+      "pnlAllUsd": null,
+      "volumeUsd": 3706437,
+      "trades": 955,
+      "followers": 1664,
+      "wallets": {
+        "solana": "CynRSDARRasb8oFxtyay1aLPeGbWXcptWd1X9Db5Drtt",
+        "evm": "0x4c4b46f06c7b2095398c881249a8ea9ee1986a2c"
+      }
+    },
+    {
+      "rank": 174,
+      "userId": "38b49450-900a-5887-89b2-bd32860c0922",
+      "handle": "phntsm",
+      "displayName": "phntsm",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 24954,
+      "pnlAllUsd": null,
+      "volumeUsd": 807506,
+      "trades": 298,
+      "followers": 655,
+      "wallets": {
+        "solana": "B3TQRAFb613SQBvKbXeViHFbns1AGusxJX7aQp8k1344",
+        "evm": "0xd631a37d3dc9cc548d5da681ef7be6414011babb"
+      }
+    },
+    {
+      "rank": 175,
+      "userId": "0a66ee95-94be-5236-815f-3fcd42336d0d",
+      "handle": "fwerf",
+      "displayName": "fwerf",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/640f89f41e09cf6fc76da39c8d1e7852_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 24864,
+      "pnlAllUsd": null,
+      "volumeUsd": 413349,
+      "trades": 336,
+      "followers": 603,
+      "wallets": {
+        "solana": "EbdNBmA4MV9Ez28o3E159i4yiSZ1QHrh4Zhjg9PaXhWm",
+        "evm": "0xf9e421c96bd72bbdeb2a098ab4d6c192d7a0c4ff"
+      }
+    },
+    {
+      "rank": 176,
+      "userId": "fb9a4b86-e059-5b4b-aa28-f0a9932c79da",
+      "handle": "jojo1963",
+      "displayName": "jojo1963",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 24406,
+      "pnlAllUsd": null,
+      "volumeUsd": 7815,
+      "trades": 4,
+      "followers": 1805,
+      "wallets": {
+        "solana": "8HbG4QWkMpkMfaSSxc74ihNEyy228GKwZos2p9K5k3iu",
+        "evm": null
+      }
+    },
+    {
+      "rank": 177,
+      "userId": "b4ead8fa-8fb4-5c72-b786-b1416bf1707b",
+      "handle": "piaw",
+      "displayName": "piaw",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/18d005ad6f1f096443ff2d1ec4291a9e_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 24150,
+      "pnlAllUsd": null,
+      "volumeUsd": 0,
+      "trades": 16,
+      "followers": 279,
+      "wallets": {
+        "solana": "GBLM5QK5d2seukXEpakiRZnYhs24Kbjm36dcipZgvxdX",
+        "evm": null
+      }
+    },
+    {
+      "rank": 178,
+      "userId": "a1d6f835-725b-54cd-b170-5ba09f1b661b",
+      "handle": "valueandtime",
+      "displayName": "Value",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/44e72b10b9c449c70db0f0e7bd135674_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 23499,
+      "pnlAllUsd": null,
+      "volumeUsd": 3317214,
+      "trades": 1468,
+      "followers": 19283,
+      "wallets": {
+        "solana": "BPjuxgARGFgBoMwJrMrhEmYat4TavCjW9wG9i3UZ1dbZ",
+        "evm": "0x3263600bec5e9935ddcc805e905b4d81d68f2bf3"
+      }
+    },
+    {
+      "rank": 179,
+      "userId": "afe72dad-5e56-576b-8318-1ae6b4f19814",
+      "handle": "cryptomfer69",
+      "displayName": "cryptomfer",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/25510356907927acfe7111be1fbf0e98_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 22935,
+      "pnlAllUsd": null,
+      "volumeUsd": 3322,
+      "trades": 48,
+      "followers": 245,
+      "wallets": {
+        "solana": null,
+        "evm": "0x2655b6d82ab116eaff3e02818545437f439d9e31"
+      }
+    },
+    {
+      "rank": 180,
+      "userId": "477abbdc-acfe-53d0-88f8-d4c5c6db5fa2",
+      "handle": "zfrf",
+      "displayName": "ZRFR",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/e7efafba4e77c1a231933f760c0d9146_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 22825,
+      "pnlAllUsd": null,
+      "volumeUsd": 4956725,
+      "trades": 1770,
+      "followers": 671,
+      "wallets": {
+        "solana": "EMXhULeCha5zNYLr6DteSQ1j2zLoK9PUnX2gARAM3bMh",
+        "evm": "0x660e0670d461913ccea270fd357ce1f8bd656290"
+      }
+    },
+    {
+      "rank": 181,
+      "userId": "6a35d911-8221-513b-918c-dbf937663663",
+      "handle": "letsgopenguin",
+      "displayName": "penguin",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/6061a4843adf7d239835fd5212643820_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 21922,
+      "pnlAllUsd": null,
+      "volumeUsd": 1753564,
+      "trades": 1491,
+      "followers": 15525,
+      "wallets": {
+        "solana": "D6Zpb2nBksuYYeef8u7VLpv588iGXGKQdeSLoSHqjTkG",
+        "evm": "0xbb2e091efb63c2357d922b423ed57a0bfa413bd2"
+      }
+    },
+    {
+      "rank": 182,
+      "userId": "ed33a55e-3d63-5fa8-bfdf-1937f1274977",
+      "handle": "Y0u_andme",
+      "displayName": "degen tw",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/96962df91dca16ced2d52f70b769c48c_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 20595,
+      "pnlAllUsd": null,
+      "volumeUsd": 7560582,
+      "trades": 961,
+      "followers": 6438,
+      "wallets": {
+        "solana": "Hce3UgJwJkxVnkcxWrvaKGHNwqLP8dmMFMEK26jPR1EE",
+        "evm": "0xf9e34df9b8d00d37cf3826d0255f124165b2e318"
+      }
+    },
+    {
+      "rank": 183,
+      "userId": "9a885182-fdd9-5fb2-92f6-74c866ef3e80",
+      "handle": "yams",
+      "displayName": "yams",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/b591fc9c07c50aeab51738e704a4a57c_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 20496,
+      "pnlAllUsd": null,
+      "volumeUsd": 328792,
+      "trades": 39,
+      "followers": 2309,
+      "wallets": {
+        "solana": "HKfUhqy6Z9WNUy4dTKFHiGeAfhL9YFpu1dAFrZAvjkLf",
+        "evm": "0xa18e5f9eb08ce59386f079786d92f436e5201e99"
+      }
+    },
+    {
+      "rank": 184,
+      "userId": "cf22903d-818b-5aba-a8bf-dc0da9d854d6",
+      "handle": "deloulou",
+      "displayName": "Lou",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/60b24e66a6db67b2b782808e13f7ec02_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 20391,
+      "pnlAllUsd": null,
+      "volumeUsd": 575003,
+      "trades": 724,
+      "followers": 401,
+      "wallets": {
+        "solana": "54QZw1qALypA9xq72TsKv3fSKs6dZmZozBtXc5eopVdu",
+        "evm": "0x0e94a98fea92d85292b77cd466a8008261e519f4"
+      }
+    },
+    {
+      "rank": 185,
+      "userId": "6b102695-c7ec-51e4-b742-4b9cee58b936",
+      "handle": "stankcooch",
+      "displayName": "stankcooch",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/e019393726a63d40646ae69241ec9393_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 20359,
+      "pnlAllUsd": null,
+      "volumeUsd": 368816,
+      "trades": 261,
+      "followers": 287,
+      "wallets": {
+        "solana": "5SLHQMSLk1atEzHQNg4AikCCN4h5HG2qrXP4LgKbfi23",
+        "evm": "0x8b04d157e585e0e5061bdb48c86f842b071bed54"
+      }
+    },
+    {
+      "rank": 186,
+      "userId": "3ce48573-03f7-5fb9-a1ea-163c0845908b",
+      "handle": "wenaltseason",
+      "displayName": "Wenaltseason?",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/6f010038df6397c96a7cbbc0f98b4970_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 20256,
+      "pnlAllUsd": null,
+      "volumeUsd": 256962,
+      "trades": 292,
+      "followers": 1781,
+      "wallets": {
+        "solana": "DGAwZPkQMwMChhx7zFQ7d82fGT4yxKR729Dtic2TTpGK",
+        "evm": "0xcce8c14baeadb27b0f3a6ce9dc9d4b55b2b3337b"
+      }
+    },
+    {
+      "rank": 187,
+      "userId": "a2ca60ae-c41b-5d89-997c-e71be72b5463",
+      "handle": "Kale_Abe",
+      "displayName": "Kale_Abe",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/bc015ecf091b27b4b36f298e26cd5ec2_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 20128,
+      "pnlAllUsd": null,
+      "volumeUsd": 1828682,
+      "trades": 425,
+      "followers": 2347,
+      "wallets": {
+        "solana": "6s5kATBRnP98qL9MKuzZ1wx7zzQzZt18zdjuYFbRRv9R",
+        "evm": "0x8ec0bf87732de9ed3ad316c7e90ed195dda7dfc8"
+      }
+    },
+    {
+      "rank": 188,
+      "userId": "4d793388-9212-592b-878c-515fabfa7776",
+      "handle": "SnowHunterr4",
+      "displayName": "SnowHunter",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/784b0081ea55778f170e55721c776ef2_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 19963,
+      "pnlAllUsd": null,
+      "volumeUsd": 66147,
+      "trades": 505,
+      "followers": 157,
+      "wallets": {
+        "solana": "Gcm8dhRyyFC9Vp1CmgPpr5aYgRLBFfGrSg85eMUmtWMi",
+        "evm": "0xf9a9a8e07e33d42738e81d72cebf415b0ecb48a9"
+      }
+    },
+    {
+      "rank": 189,
+      "userId": "80e94bf6-8ee3-54bb-837d-2069ca681590",
+      "handle": "tungtungtungg",
+      "displayName": "tung",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/0e0acc2780ed864dbf667a696cd8f7da_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 19945,
+      "pnlAllUsd": null,
+      "volumeUsd": 588373,
+      "trades": 47,
+      "followers": 695,
+      "wallets": {
+        "solana": "8jotNSgDRP5Ar1neLGquQ2pAS76NQ3KTCBbtH3oioYLJ",
+        "evm": "0xcf8d2bbf956a3dffcadba7386a2054593abf489e"
+      }
+    },
+    {
+      "rank": 190,
+      "userId": "535b2d0e-21ed-5cad-af1d-d60c67f8846e",
+      "handle": "DreamXThat",
+      "displayName": "DreamXThat",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/44ab51a3db050d2bae63a70bf576c1b7_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 19291,
+      "pnlAllUsd": null,
+      "volumeUsd": 53827,
+      "trades": 52,
+      "followers": 1471,
+      "wallets": {
+        "solana": "DFGxESj7xqoCr81MxPcWpprFzhAwQdNXzUHSnkGbTA1D",
+        "evm": "0x636af97f6500ae1028331e898a5844267a09a680"
+      }
+    },
+    {
+      "rank": 191,
+      "userId": "eacb5a27-e3ec-525f-963f-300cdb888771",
+      "handle": "lazycschmo",
+      "displayName": "lazy",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/939c5b5c141e588237e188ededef7c0f_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 19266,
+      "pnlAllUsd": null,
+      "volumeUsd": 16469,
+      "trades": 62,
+      "followers": 291,
+      "wallets": {
+        "solana": "EEW6WaQevTdhFkd6HfCTHZh3h6FZ94SsLFVfYDrzGsvn",
+        "evm": "0xfd01ee899d98436b4925bc9c74f116090eeeba32"
+      }
+    },
+    {
+      "rank": 192,
+      "userId": "174a471a-67c5-504c-be4f-455b2be68999",
+      "handle": "moon1185",
+      "displayName": "Moon",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/0eff1f06fb2de2993da7ade8a873a6ee_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 19250,
+      "pnlAllUsd": null,
+      "volumeUsd": 2545813,
+      "trades": 4950,
+      "followers": 3601,
+      "wallets": {
+        "solana": "59puf9koHVBEy4abi9xQFr2AGxHaZo45BXomiJAWXtQ8",
+        "evm": "0x865f88e3b8aca638bebaeb6525ca84fc3ee5be23"
+      }
+    },
+    {
+      "rank": 193,
+      "userId": "02c9d66a-d1dc-5ede-9576-3fc3489a3e4b",
+      "handle": "Gs97z",
+      "displayName": "K线漂移",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/b423f189d025ea9d2a3b1115ad8488c2_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 19128,
+      "pnlAllUsd": null,
+      "volumeUsd": 484324,
+      "trades": 213,
+      "followers": 815,
+      "wallets": {
+        "solana": "65U3ZLXCqy9Z16tehTxyByig4o9jC7MR2TPKP5cknF2x",
+        "evm": "0x89db8f4fb6421c25dbdb0d3af0d8407df91e400f"
+      }
+    },
+    {
+      "rank": 194,
+      "userId": "d44b0cee-15c5-5c74-95c8-1de414b689e2",
+      "handle": "spartee",
+      "displayName": "Spartee",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/a1c4394075950d0d2309ea6cff70cf89_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 18800,
+      "pnlAllUsd": 610942,
+      "volumeUsd": 1670442,
+      "trades": 437,
+      "followers": 5054,
+      "wallets": {
+        "solana": "HPZJPCpMKEY1mBfvLE7RrwcpiQDncLY575dBgc6S9sJ1",
+        "evm": "0xe68a514e5580c0551cdb0e772794f5a7881b8d7c"
+      }
+    },
+    {
+      "rank": 195,
+      "userId": "d7a09576-b382-5ceb-8118-1aac3e53a23a",
+      "handle": "KAZ711669567",
+      "displayName": "KAZ71",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/18315679464aba5bf24a8cfb3a10500c_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 18721,
+      "pnlAllUsd": null,
+      "volumeUsd": 526077,
+      "trades": 702,
+      "followers": 164,
+      "wallets": {
+        "solana": "2LeQqkYCszfpF825fjqM1ESML3wbKkrgaqSWZdbT4ir2",
+        "evm": "0xb6260074da9cba78fa7fb5bf462e48d3fd212032"
+      }
+    },
+    {
+      "rank": 196,
+      "userId": "a27345ff-7193-5f20-be8b-8138a1d9fc8c",
+      "handle": "Mhersh6933",
+      "displayName": "Mhersh6933",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 18596,
+      "pnlAllUsd": null,
+      "volumeUsd": 4580,
+      "trades": 5,
+      "followers": 1556,
+      "wallets": {
+        "solana": "Bwb16VL6Mn4P9Z9MuJx2mjnah5HhDHrnprF9dNKfVazP",
+        "evm": null
+      }
+    },
+    {
+      "rank": 197,
+      "userId": "db672c90-dbbc-5967-bbed-ee1eb4b82e86",
+      "handle": "manfan",
+      "displayName": "ManFan",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/21811fb6331378c8a32a6987e26bae7d_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 18380,
+      "pnlAllUsd": null,
+      "volumeUsd": 5143,
+      "trades": 39,
+      "followers": 653,
+      "wallets": {
+        "solana": "GvRjvtBUyYkwxLuQGhGMNXALkUtHFEGfkNJNKjyEspS8",
+        "evm": "0x970436fb3890093b7115c2b1bc7ecd5d1bd1d1fc"
+      }
+    },
+    {
+      "rank": 198,
+      "userId": "793b1148-e9c1-51f0-af52-43a537334975",
+      "handle": "nolosingtrades",
+      "displayName": "no losing trades",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 18072,
+      "pnlAllUsd": null,
+      "volumeUsd": 701521,
+      "trades": 325,
+      "followers": 397,
+      "wallets": {
+        "solana": "BT3SMhbr5wtNSGJN4qoBd3gP4gWEfYRZAcMcVDb3k6zx",
+        "evm": "0x12ac7b0f66c732dab395eb925aa1fac67b2c0952"
+      }
+    },
+    {
+      "rank": 199,
+      "userId": "638fc87c-360f-5b4e-a0cf-e49ad6d2a654",
+      "handle": "samuconti05",
+      "displayName": "$amu",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/865d9c3e5a0a195770a38ec02af67989_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 18027,
+      "pnlAllUsd": null,
+      "volumeUsd": 60379,
+      "trades": 533,
+      "followers": 601,
+      "wallets": {
+        "solana": "6LkZgN5kFWFSzmV3gW2yku8ddSHvbV9p2nCuphSaUo85",
+        "evm": "0xdf766a9ac732ce10b2aba9495638a9fd6ba5a1cc"
+      }
+    },
+    {
+      "rank": 200,
+      "userId": "eb0c3ade-b937-5685-874b-423ef624e1e1",
+      "handle": "sosababy300",
+      "displayName": "sosababy300",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 18000,
+      "pnlAllUsd": null,
+      "volumeUsd": 291068,
+      "trades": 149,
+      "followers": 209,
+      "wallets": {
+        "solana": "HECQbL98BmkCbQqzsKsmCfvhEKTRdu5aVTayXVRSEkLd",
+        "evm": "0xe2cc4e83324f28bd9f21e12a953a1f45f5f47662"
+      }
+    },
+    {
+      "rank": 201,
+      "userId": "a5645d3d-143c-5d3f-af1f-0d71ee2147d6",
+      "handle": "YeahUso",
+      "displayName": "YeahUso",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/ce4b1177356b5ece046117aa1fe6a0be_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 17455,
+      "pnlAllUsd": null,
+      "volumeUsd": 64939,
+      "trades": 273,
+      "followers": 127,
+      "wallets": {
+        "solana": "LnyV4wpWeCPNWwqNx7zKXqfaBSfcEngvgfzxdHNJfsb",
+        "evm": "0xefe06f7d60d6a3eaab5f937d22ac894dd1bfccf3"
+      }
+    },
+    {
+      "rank": 202,
+      "userId": "de53fdb5-e70a-5506-964a-8dbb057efc29",
+      "handle": "LeverBoi",
+      "displayName": "LeverBoi",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/15d2543a997535bc5e72273d5471643e_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 17303,
+      "pnlAllUsd": null,
+      "volumeUsd": 133,
+      "trades": 3,
+      "followers": 212,
+      "wallets": {
+        "solana": "3eGa82UW4dudHBGG6cCFeXPX4dvswmzpW82kEdpd1sSh",
+        "evm": "0xfa04beb34ea080fe7e08a191f35a194ec52ce0d5"
+      }
+    },
+    {
+      "rank": 203,
+      "userId": "1f6feef0-1089-57df-b6d1-e40d2b39022a",
+      "handle": "bakerbaked23",
+      "displayName": "Michael Baker",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/a94bfd77349e467426c44c9ee2b2f8cd_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 17157,
+      "pnlAllUsd": null,
+      "volumeUsd": 38299,
+      "trades": 207,
+      "followers": 165,
+      "wallets": {
+        "solana": "49hzGZn8NcrwmjGqE8ud9VBiSgzFnvPq8jjeh94DtC4h",
+        "evm": "0xf674a1cd952204f9f07c3d27b512a5bef6dee396"
+      }
+    },
+    {
+      "rank": 204,
+      "userId": "41380509-55e1-51cb-b87e-388d7ae42350",
+      "handle": "shootingguard",
+      "displayName": "shooting guard",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/d3ad1a882522da27b49828e2dfa1e1d3_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 17132,
+      "pnlAllUsd": null,
+      "volumeUsd": 4318845,
+      "trades": 262,
+      "followers": 13671,
+      "wallets": {
+        "solana": "EQzKEoRW2QEt2Y98jrpioq6DojKSg54EimMYy958otsR",
+        "evm": "0x538d89d131b56c7736be4e2eeedc3c51463980de"
+      }
+    },
+    {
+      "rank": 205,
+      "userId": "73acfc7d-bf65-5967-bb20-5edb5530b0c6",
+      "handle": "mc_dipperx",
+      "displayName": "mc_dipper",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/fd79f2b1f277de75ab5b7d207a2b238c_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 16919,
+      "pnlAllUsd": null,
+      "volumeUsd": 106726,
+      "trades": 186,
+      "followers": 935,
+      "wallets": {
+        "solana": "97YaKFYmbnKvLwf3nxqoL4skdk7WbDcCxy59nGGMBSRE",
+        "evm": "0xea73d0214799f72515edecb2116f65762aed4d60"
+      }
+    },
+    {
+      "rank": 206,
+      "userId": "70cae7e1-40cf-51ee-b50e-25e883163812",
+      "handle": "zach13",
+      "displayName": "fluffinator",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/936301c4c1a8f6d863a050e38fac8b30_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 16913,
+      "pnlAllUsd": null,
+      "volumeUsd": 71962,
+      "trades": 134,
+      "followers": 1062,
+      "wallets": {
+        "solana": "DXEcPin6HXPqsyuqLFAFrH5TRzGyuvKCMT3ATLYcJLT4",
+        "evm": "0x46129ae3bf0bae6aca72b2a31fc2e3423e9e54ac"
+      }
+    },
+    {
+      "rank": 207,
+      "userId": "64aa7203-a392-5d28-a90a-006c00f2bd2d",
+      "handle": "rafael_on_chain",
+      "displayName": "Rafael",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/47ab721a305cd9b948fe9039b4a4f8f1_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 16714,
+      "pnlAllUsd": null,
+      "volumeUsd": 560487,
+      "trades": 551,
+      "followers": 4009,
+      "wallets": {
+        "solana": "9SPeNFBjrHm3KW4KUV7g5awj9bVtKRoLmwcUH3vmrLwf",
+        "evm": "0xc9d9f65221c3e5252e47c8c769d73d2e37c36874"
+      }
+    },
+    {
+      "rank": 208,
+      "userId": "71c1f354-f651-567f-a792-1ed1f21966f7",
+      "handle": "WeIIsFartgo",
+      "displayName": "WF",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/f79ada2f3445b924f5131c3f2d95fcdf_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 16701,
+      "pnlAllUsd": null,
+      "volumeUsd": 1496961,
+      "trades": 502,
+      "followers": 1312,
+      "wallets": {
+        "solana": "GdZaesBzcr2sSbtNn9j8Jdh6DeJGmcjYnJsitRWSLsQb",
+        "evm": "0x6094c60109e737299273a30d01e4baa8f0f03e88"
+      }
+    },
+    {
+      "rank": 209,
+      "userId": "40b060e1-7734-5f24-bb49-5f2defb49b09",
+      "handle": "wydcy",
+      "displayName": "好运已来",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/ade42afb046d50e9fc6bf6a29e9673d1_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 16517,
+      "pnlAllUsd": null,
+      "volumeUsd": 827069,
+      "trades": 586,
+      "followers": 1452,
+      "wallets": {
+        "solana": "2SumJBeFo6WCdGjwb3TPWDUWT3tqoZ5KeXmJiMxsKhp8",
+        "evm": "0x3c32352f4dd549353bc96cc5d43958fa2303b2b5"
+      }
+    },
+    {
+      "rank": 210,
+      "userId": "047ba538-7f02-5526-a9cf-17968c24d4d3",
+      "handle": "Pregoated",
+      "displayName": "Pregoated",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/8d528a5533ff670d78edaa08009a240a_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 16427,
+      "pnlAllUsd": null,
+      "volumeUsd": 39543,
+      "trades": 63,
+      "followers": 356,
+      "wallets": {
+        "solana": "2qiTygFB4kbPL2rvPq9U47TNhcbKycZ7sxjt47ha5X6K",
+        "evm": "0x7f68e3a88cae7d6eec6880cae3b8abb8c44a4b12"
+      }
+    },
+    {
+      "rank": 211,
+      "userId": "a764f5e2-bc21-58f9-8cb2-8384d24fe34f",
+      "handle": "onlyswz",
+      "displayName": "☯︎",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/632c97a00ce6ef29ed430eed676e371b_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 16398,
+      "pnlAllUsd": null,
+      "volumeUsd": 957394,
+      "trades": 2329,
+      "followers": 534,
+      "wallets": {
+        "solana": "C5hketoaafx6QvTYpSLFePNPNGzFscy5LZ7QntLNqfDH",
+        "evm": "0x9d16f2f3f29ccf92e6a557d7fbf07d3c3e949882"
+      }
+    },
+    {
+      "rank": 212,
+      "userId": "a85a81b5-b2f2-5554-bdda-9af9632e86b0",
+      "handle": "marcoadriano51",
+      "displayName": "Marco Adriano",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/2a20095e6a8ec5090d991e41f665e1de_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 16306,
+      "pnlAllUsd": null,
+      "volumeUsd": 3848675,
+      "trades": 1034,
+      "followers": 1419,
+      "wallets": {
+        "solana": "FQqWhVJ13fy3j7SJGXvdqEQz89cBpBSQrBTd2q3eekQn",
+        "evm": "0xd06fe7a346e6ef277711e270590e1e11b56647d1"
+      }
+    },
+    {
+      "rank": 213,
+      "userId": "0aab5671-16c3-5927-9d0b-acfbe2f0663a",
+      "handle": "Sebawasd",
+      "displayName": "Seba",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/5b6a44a10c9d9c61ba64f5aabddc83b2_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 16128,
+      "pnlAllUsd": null,
+      "volumeUsd": 755666,
+      "trades": 826,
+      "followers": 1086,
+      "wallets": {
+        "solana": "7ue232hGguefpBaF6bwChSKoF57BFhQQdXNRGmt6AKJK",
+        "evm": "0x26870a3dace82bc04909d1d1e5dfa687d63e16e6"
+      }
+    },
+    {
+      "rank": 214,
+      "userId": "1185e22f-2a65-5df4-936a-9f9efd489d27",
+      "handle": "attk6",
+      "displayName": "attk6",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/588fff70f636e40ecd5d3a1fdc931701_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 16097,
+      "pnlAllUsd": null,
+      "volumeUsd": 29271,
+      "trades": 9,
+      "followers": 1044,
+      "wallets": {
+        "solana": "4QBdDKQRK13KKsud4VZT5WByWjZachQg2jLUWRZUbE5j",
+        "evm": null
+      }
+    },
+    {
+      "rank": 215,
+      "userId": "f181d0bf-c834-56bb-8565-b148e18e1373",
+      "handle": "AliveHighFrog",
+      "displayName": "AliveHighFrog",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 15996,
+      "pnlAllUsd": null,
+      "volumeUsd": 13316,
+      "trades": 8,
+      "followers": 357,
+      "wallets": {
+        "solana": "FbuYpTC2syzozdARJEs856iWSSt4VA75BJCjax5bCCDt",
+        "evm": null
+      }
+    },
+    {
+      "rank": 216,
+      "userId": "c728a4a3-24fc-5056-bb9d-d3e3c17c3dd8",
+      "handle": "splachdaddy",
+      "displayName": "splachdaddy",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/5035ab14cbffd81d97f4de1a2ab5aa64_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 15383,
+      "pnlAllUsd": null,
+      "volumeUsd": 527697,
+      "trades": 2768,
+      "followers": 500,
+      "wallets": {
+        "solana": "AbjcLHwrniDGC4ta2drYx6CzDa7EQfiBkhLJiTSaAgX3",
+        "evm": "0xcea3cd1e9a5c3cf633fb531160b70ca4a3784952"
+      }
+    },
+    {
+      "rank": 217,
+      "userId": "e4cee26c-cf2e-5e3c-81e7-dbd94a24b9d8",
+      "handle": "cobetrades",
+      "displayName": "cobe",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/0dce3b1008c9431ee6ff954b613c1722_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 15360,
+      "pnlAllUsd": null,
+      "volumeUsd": 360477,
+      "trades": 426,
+      "followers": 290,
+      "wallets": {
+        "solana": "6AKMC2RR9J2K4bE4sxzjiTvriU83GBvKoKaeagRkmepd",
+        "evm": "0x85a7e665d4ab2b1490a6b091f28cf9603c9f6d76"
+      }
+    },
+    {
+      "rank": 218,
+      "userId": "a04e7e7c-7a77-5d78-9e62-d6ea510f8fad",
+      "handle": "weezy_trades",
+      "displayName": "weezy_trades",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/4ffa2e2cd85714f2610f0c1910cc0a16_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 15351,
+      "pnlAllUsd": null,
+      "volumeUsd": 74681,
+      "trades": 411,
+      "followers": 276,
+      "wallets": {
+        "solana": "CdcAbrc4HVmesoY8EnWUH1ZT7RSRwngZiGsegNQf2K6T",
+        "evm": "0x7764a578f67d39c7cf4adec066a5652f9d7418f8"
+      }
+    },
+    {
+      "rank": 219,
+      "userId": "97e2f16a-6eb8-5dc6-80be-5575132f99e8",
+      "handle": "rossescltrader",
+      "displayName": "rossescltrader",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/d5c2d039b78e6ee4cff3f972dc25f2ff_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 15274,
+      "pnlAllUsd": null,
+      "volumeUsd": 298712,
+      "trades": 587,
+      "followers": 204,
+      "wallets": {
+        "solana": "BLGFEcsdGWzVmuWDxcYe2uREyWiDwYzfNNEvBTVCqd6g",
+        "evm": "0x0ce7e67a0a552114dfebb63f02ff9abf84c424ca"
+      }
+    },
+    {
+      "rank": 220,
+      "userId": "df7bdd64-377d-5c6e-9842-8b408e1ee4bb",
+      "handle": "ak8888",
+      "displayName": "ak8888",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 15253,
+      "pnlAllUsd": null,
+      "volumeUsd": 17956,
+      "trades": 46,
+      "followers": 72,
+      "wallets": {
+        "solana": "iifqB4Aeh4LUJS6UjqD2BCJF4jeiwEv7SDWoaeocTmt",
+        "evm": "0xd7582189b4850df54df89b7df71ed3a4e35a690b"
+      }
+    },
+    {
+      "rank": 221,
+      "userId": "a3e23c80-852a-5c97-ba50-96c69b0e5583",
+      "handle": "LincdaGoat",
+      "displayName": "Linc",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/65103391b5ea003376506f633f5e19bf_small.jpg?k=319SykgitE6inOFjkn2fE7l7w",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 15226,
+      "pnlAllUsd": null,
+      "volumeUsd": 13808,
+      "trades": 84,
+      "followers": 342,
+      "wallets": {
+        "solana": "6sa6XeGLat5EVGtyX6w9HYjtmQ4L4pGx5DaYK6tPr8rq",
+        "evm": null
+      }
+    },
+    {
+      "rank": 222,
+      "userId": "de78ed1d-e507-5244-b5a8-374db340b4f2",
+      "handle": "peezystartedwit10kwhynotu",
+      "displayName": "peezystartedwit10kwhynotu",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": 14649,
+      "pnlAllUsd": null,
+      "volumeUsd": 3285284,
+      "trades": 1332,
+      "followers": 359,
+      "wallets": {
+        "solana": "2gYjUN2S3xkb2JUrUL4ExMy4NmMfyodRM4t96PiSJm2Q",
+        "evm": "0x9efa3425b8b8f817549cfacd820a07a3a975427d"
+      }
+    },
+    {
+      "rank": 223,
+      "userId": "aefe2ddd-c580-5245-a2f5-e4ed62f7ef10",
+      "handle": "frankdegods",
+      "displayName": "frank",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/b099ba0c0f4f5809c7be5d65fb30b72e_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 2293686,
+      "volumeUsd": 71505304,
+      "trades": 9618,
+      "followers": 406639,
+      "wallets": {
+        "solana": "498g1rVnFcnjBjpfw1xyqA1WvgQXUU8RWuELjxkjAayQ",
+        "evm": "0x696d1265c8fc4f14797abebfae3c43ebfa9d8e28"
+      }
+    },
+    {
+      "rank": 224,
+      "userId": "2e955ffc-6fac-578a-93d8-3324605f6bed",
+      "handle": "change",
+      "displayName": "change",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/28e6f5ac73f7361f02980d1b36f723d3_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 1486146,
+      "volumeUsd": 33724924,
+      "trades": 5143,
+      "followers": 362964,
+      "wallets": {
+        "solana": "J9WiAZKf8JnCkHFL8fLCCXdEgdoLjLRqU2EGsDjdqYga",
+        "evm": "0x92bff72e6c943a1348aedf15d68e758e811dec64"
+      }
+    },
+    {
+      "rank": 225,
+      "userId": "6e51b3ef-54bc-5062-894b-3f06986ac242",
+      "handle": "DumbCrayonEater",
+      "displayName": "DumbCrayonEater",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 1412148,
+      "volumeUsd": 2143749,
+      "trades": 4824,
+      "followers": 699687,
+      "wallets": {
+        "solana": "5FGoPPj1nL8LCnfVnpTmreqQtqLuMXXAwuS1uahMrp8V",
+        "evm": "0x8f62a08537cede87d511aca6436274ab4ca080a3"
+      }
+    },
+    {
+      "rank": 226,
+      "userId": "8c4dbc62-ee24-5426-acdb-abbad855cd91",
+      "handle": "frogmanhaha",
+      "displayName": "Frogman",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/ca2c588488d610de4c37b8f0a915fe68_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 1252478,
+      "volumeUsd": 48410,
+      "trades": 1134,
+      "followers": 100112,
+      "wallets": {
+        "solana": "9wMSNoA7TzhwUjqsACVGEvzAxAibCHnsZTgXEAGov8zQ",
+        "evm": "0x14aa2a71dbb5ef87b81f92205e2699aa4aa65794"
+      }
+    },
+    {
+      "rank": 227,
+      "userId": "35a98e8f-d962-5256-9b39-89624b524e57",
+      "handle": "AvgJoesCrypto",
+      "displayName": "AJC",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/be589800533de1c866a58c639a35e9db_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 1208759,
+      "volumeUsd": 3030619,
+      "trades": 3236,
+      "followers": 159701,
+      "wallets": {
+        "solana": "H2QSGECp13sFLJgdTsDtayX3dk18Dm6sQMSQKcew7Xzk",
+        "evm": "0x06de9c48b1e639ed5c13ec8fbd4080a38e39f2d1"
+      }
+    },
+    {
+      "rank": 228,
+      "userId": "dcf40072-45ba-5ae3-af7f-7250dd77e215",
+      "handle": "bigbabba",
+      "displayName": "big babba johnson",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/ca2de75b4ad6ac10d34e168a4eac2da1_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 1205558,
+      "volumeUsd": 21851841,
+      "trades": 5159,
+      "followers": 93250,
+      "wallets": {
+        "solana": "mDR91ufq4S2uSHa9E2PYL7xg4LwcQXaQFP7YK864a1z",
+        "evm": "0x194db29f5bebacf3201abc9dbdda452116a3ff23"
+      }
+    },
+    {
+      "rank": 229,
+      "userId": "61902b09-5394-5cf3-83ed-ea5fa93e963a",
+      "handle": "397397",
+      "displayName": "Lasercat397",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/00c4d6cada22e403e1db0a0d9edc1294_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 1128295,
+      "volumeUsd": 3064546,
+      "trades": 3550,
+      "followers": 120463,
+      "wallets": {
+        "solana": "5dB6rj9CoXMLQCAymoC5UXCb1LtFjbM5rbut3MNuj9Q",
+        "evm": "0xcbaea88c17888e3c7b84117bd6ebbdbf4f95b810"
+      }
+    },
+    {
+      "rank": 230,
+      "userId": "2f62a25e-b162-51c8-bdbb-f70365dbf34e",
+      "handle": "cosby",
+      "displayName": "cosby",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 1091192,
+      "volumeUsd": 4863216,
+      "trades": 1940,
+      "followers": 90601,
+      "wallets": {
+        "solana": "HmLwYRdPE3QsSexagobJdjxcWFZgqrSXtsQUrRZLWqnB",
+        "evm": "0xf1882812aacac1df9a58195dbbd2f97fe48f81f2"
+      }
+    },
+    {
+      "rank": 231,
+      "userId": "87f77c24-44e0-5696-baaf-dfe732083954",
+      "handle": "kyle",
+      "displayName": "kyle",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/7d5d73ffb806613a8181e32434794d86_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 1067660,
+      "volumeUsd": 3198485,
+      "trades": 2675,
+      "followers": 48448,
+      "wallets": {
+        "solana": "EJ1izM56eBS5baVLk7Q4iaQvsgCPa3W5bZgc44wwHz8U",
+        "evm": "0x39b337121494b10cffe3e581ab3281b2d62c5b08"
+      }
+    },
+    {
+      "rank": 232,
+      "userId": "8929f835-e3e7-5256-9a48-6bfca97cf997",
+      "handle": "Visi235",
+      "displayName": "Visionary",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 950970,
+      "volumeUsd": 1285286,
+      "trades": 1135,
+      "followers": 25138,
+      "wallets": {
+        "solana": "4JafciCHuforHqeWqBhK36DMCGbjbMMZRkvZKis74c4s",
+        "evm": "0xa98fdae24104a6fbf0799a15069caf749112790c"
+      }
+    },
+    {
+      "rank": 233,
+      "userId": "36565fe5-7f8b-5a43-a8d0-c76b12f44225",
+      "handle": "Quanterty",
+      "displayName": "Qwerty",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/855b3c9ec9a150b34ef25bbdb76ea6f5_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 943931,
+      "volumeUsd": 10298024,
+      "trades": 3628,
+      "followers": 332738,
+      "wallets": {
+        "solana": "8f39XhhZoRD8sYb6K5K9N7iSHXkL7BDmFFQNDF3TtsEr",
+        "evm": "0x0121525f755c9e7bbc525bba6672716ab46ced57"
+      }
+    },
+    {
+      "rank": 234,
+      "userId": "7318d7e7-81e5-5c4a-ab7f-de9b1409879c",
+      "handle": "justtesting",
+      "displayName": "Test Account",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 911129,
+      "volumeUsd": 2222499,
+      "trades": 738,
+      "followers": 12735,
+      "wallets": {
+        "solana": "FBqEkbfAFxAAGfSCZtxPQThomADu6qf1nd41Ao1E3xkH",
+        "evm": "0xdb5cb33ccaf4a5c7f509b2e80f0ee9ed67861942"
+      }
+    },
+    {
+      "rank": 235,
+      "userId": "e8d56799-ed96-54cf-92ff-31feee0db00c",
+      "handle": "notanicecat69",
+      "displayName": "Wood",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/6e17e23a41f00c205bcd2ea94abdb7d9_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 854205,
+      "volumeUsd": 12391029,
+      "trades": 3152,
+      "followers": 90202,
+      "wallets": {
+        "solana": "7iPPqPyrqcmfenRs4xZ72ab4pyuUofXB5YaQB83WJmT9",
+        "evm": "0xb02208d1b27811480cf6171bccc2b7af9513cddb"
+      }
+    },
+    {
+      "rank": 236,
+      "userId": "4c88563b-770a-5abe-810a-bd6be308fe16",
+      "handle": "lordarbiter",
+      "displayName": "lordarbiter",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/b26ea85a7dae8eabec39deb8e91c5613_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 852983,
+      "volumeUsd": 1194926,
+      "trades": 1527,
+      "followers": 31628,
+      "wallets": {
+        "solana": "9EhcDGGJ6NpetxNumZKwD1o1kuHBwvfNGKrmS6zekP7C",
+        "evm": "0x712b009be8006d28738fd4810ee1440e277bae03"
+      }
+    },
+    {
+      "rank": 237,
+      "userId": "5035bc84-c8f0-5c54-a649-a99282d852ce",
+      "handle": "IdealPlumToad",
+      "displayName": "IdealPlumToad",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 824210,
+      "volumeUsd": 0,
+      "trades": 121,
+      "followers": 1242,
+      "wallets": {
+        "solana": "5fkAwNVpT8A1UHEnY62VEFpqgagdoP8FYrv5ideiQp5c",
+        "evm": "0xdfa705fa2db5044e672d597e5eddcc11a9f2815c"
+      }
+    },
+    {
+      "rank": 238,
+      "userId": "b3a9a5b7-c3c5-5e46-a89c-a787e369629d",
+      "handle": "0xLingard",
+      "displayName": "Lingard",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/b4af20ee178156358ce37fe88f8d979f_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 813391,
+      "volumeUsd": 6445707,
+      "trades": 985,
+      "followers": 17390,
+      "wallets": {
+        "solana": "B9FJomxFnA5WauXkJdh4GBke3NAaGnC8nwEEW6sEGQ7y",
+        "evm": "0xb3f815dac319bd560e535f6788f0d9ed9c73eb3e"
+      }
+    },
+    {
+      "rank": 239,
+      "userId": "5a59dea5-d0fc-57ec-a617-6413105fe466",
+      "handle": "Samisa_btc",
+      "displayName": "samisa",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/92f2fa8f235d8eff97b4098cd34ad8c9_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 811226,
+      "volumeUsd": 971654,
+      "trades": 2860,
+      "followers": 35362,
+      "wallets": {
+        "solana": "FS6zZg5zHTfwhwdqWBx7tmhZFmVnU8fAu9TYBFYoMGBg",
+        "evm": "0xd73d6b8b9e875569c0f03c572a3806e619bcbec2"
+      }
+    },
+    {
+      "rank": 240,
+      "userId": "d47559fc-02c3-5165-b94f-1316fdd19560",
+      "handle": "NotARandomUser",
+      "displayName": "User",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/b221484f34936cd43118d92bb1679c35_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 773738,
+      "volumeUsd": 32820290,
+      "trades": 4214,
+      "followers": 35139,
+      "wallets": {
+        "solana": "2L17Sw85Lh2Ca7ejEzWqyJsZ3yS4DxQhYr52X5H5xRns",
+        "evm": "0xdce001e4ec11ab58650c51ae9658accbe0f49c48"
+      }
+    },
+    {
+      "rank": 241,
+      "userId": "2a2cecf2-daed-5044-8601-97eb0e40767d",
+      "handle": "dreamloaderxo",
+      "displayName": "dreamloader",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/ea2f1aaa13380f374edf790ff5f72a3b_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 767469,
+      "volumeUsd": 12513529,
+      "trades": 2901,
+      "followers": 17501,
+      "wallets": {
+        "solana": "4KFjw2xfH4cXJJKjG1jDZRNphctZPMoFz3K6r3bAVtmD",
+        "evm": "0xf75f2f708e489299c992349a73baec209b400aa0"
+      }
+    },
+    {
+      "rank": 242,
+      "userId": "12ea3d9d-fb23-5c45-a0a3-ff768c267ff8",
+      "handle": "CardinalSaint2",
+      "displayName": "Cardinal Saint",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/806ab3adbc412de3a3a9cd6c42600d44_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 744512,
+      "volumeUsd": 2998967,
+      "trades": 2110,
+      "followers": 31445,
+      "wallets": {
+        "solana": "HYh78tNpGBUcxoHgPU9v7VeP2wqSbkapuTzrfYHjfyLo",
+        "evm": "0xb7749bd1a4b632f54b054a15a8066fd227fc938e"
+      }
+    },
+    {
+      "rank": 243,
+      "userId": "d6a85eb5-d3fb-5b8a-8445-019af88ba512",
+      "handle": "ExactTallTakin",
+      "displayName": "ExactTallTakin",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 697177,
+      "volumeUsd": 2215594,
+      "trades": 956,
+      "followers": 102779,
+      "wallets": {
+        "solana": "AGdtsMmphhymH5wYW3dWKSkAxpLYRrNDCTFAfuq8ii9v",
+        "evm": "0x6434454a2f00b3dbbf714de40c71c86857f881a3"
+      }
+    },
+    {
+      "rank": 244,
+      "userId": "8aa5b518-2367-5e93-a6e0-2a9e4edda31c",
+      "handle": "brrrgrrrz",
+      "displayName": "Burgz",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/07c38e08aa3d9132def53ee960b28df7_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 675586,
+      "volumeUsd": 5337637,
+      "trades": 4863,
+      "followers": 131339,
+      "wallets": {
+        "solana": "GFRjGNXY8JrGSPC46inqrH4XPdUFMDLkE1oNm1nXiPsJ",
+        "evm": "0x8e4f5d00a5f4d7877a0f66b98fdf9d40323bc52a"
+      }
+    },
+    {
+      "rank": 245,
+      "userId": "940497ec-34cd-5d21-8048-e708ae58b8cc",
+      "handle": "mrfernando88",
+      "displayName": "MrFernando",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/ba763aa9ec830a3d3e54573e55662909_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 628662,
+      "volumeUsd": 1693697,
+      "trades": 864,
+      "followers": 12453,
+      "wallets": {
+        "solana": "AUYLj5kLGUadmhn8kM91KnTJYfHiXGzcQ7TViP8uLLQv",
+        "evm": "0xdfa06f8e659b75894691bd5726b571728ade835c"
+      }
+    },
+    {
+      "rank": 246,
+      "userId": "18e1a823-87d9-5e6b-ba0f-5ef81e734660",
+      "handle": "Chubbi230",
+      "displayName": "230",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/c635eec1447e91ce4f5d084f6df3b1c4_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 622245,
+      "volumeUsd": 1084519,
+      "trades": 843,
+      "followers": 39180,
+      "wallets": {
+        "solana": "31nAKhDacwtF7WJAfpNBY5yziuboox6zcLhdmMRTNdyW",
+        "evm": "0x8405a524d977d0998c8b585ad98d6edc41cdc943"
+      }
+    },
+    {
+      "rank": 247,
+      "userId": "c7d731ef-983e-5645-bb5d-1ea2a7d8363b",
+      "handle": "WuKong365",
+      "displayName": "WuKong",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/bb643760d29a4cd11d9ba3d48d694b28_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 598459,
+      "volumeUsd": 3295362,
+      "trades": 119,
+      "followers": 12908,
+      "wallets": {
+        "solana": "DgmDUhxSoeek4sbiSP7Jnj68MJQayTLHjXncE4MLowVe",
+        "evm": "0x021339b32fa1b40c7773f70e5a1835a7fd01de07"
+      }
+    },
+    {
+      "rank": 248,
+      "userId": "6b60072d-445a-5af2-b646-24ddc80c7ded",
+      "handle": "SolarFirmDingo",
+      "displayName": "SolarFirmDingo",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 593101,
+      "volumeUsd": 1755,
+      "trades": 107,
+      "followers": 1129,
+      "wallets": {
+        "solana": "Ga4qb3YHybjDjAmhYwrR43yzsUkiWRgSbTGHGJGwVJ6S",
+        "evm": "0x124cef73f47627f3f919bbab725b5fe924445d69"
+      }
+    },
+    {
+      "rank": 249,
+      "userId": "b8d2fc17-0b5c-54c3-af67-137c6b4e4bf0",
+      "handle": "ether_monk",
+      "displayName": "Ethermonk 📿",
+      "avatar": "https://prod-fomo-profile-pics.s3.amazonaws.com/24b5ebff61d598b568a2c8676318236b_small.jpg?k=319Z4NoItPqtdIGwbetGBDLgg",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 587498,
+      "volumeUsd": 14690930,
+      "trades": 4316,
+      "followers": 346007,
+      "wallets": {
+        "solana": "2xUbYAVq1oJGj45d6JjnaYHAke3NQecUcqWvvVbwmYw8",
+        "evm": "0x2408ce75d217e3a70d6ca370c78c1b34d706f5a0"
+      }
+    },
+    {
+      "rank": 250,
+      "userId": "17e7a11f-9e74-5ecc-8282-6a3ca3053383",
+      "handle": "derek518",
+      "displayName": "derekz",
+      "avatar": "",
+      "pnl30dUsd": null,
+      "pnl7dUsd": null,
+      "pnlAllUsd": 574358,
+      "volumeUsd": 15010621,
+      "trades": 330,
+      "followers": 4436,
+      "wallets": {
+        "solana": "ApUwcBwDnXN9Ttn8g7m9pnyDucSGpU8jknWfLxvX54J8",
+        "evm": "0xa81a48e9e52527564b1fddba2ea600b6d2d74c61"
+      }
+    }
+  ]
+}

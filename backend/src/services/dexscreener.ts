@@ -1,0 +1,251 @@
+const BASE_URL = 'https://api.dexscreener.com'
+const MAX_BATCH_SIZE = 30
+
+interface DexToken {
+  address?: string
+  name?: string
+  symbol?: string
+}
+
+export interface DexPair {
+  chainId?: string
+  pairAddress?: string
+  url?: string
+  baseToken?: DexToken
+  quoteToken?: DexToken
+  priceUsd?: string
+  fdv?: number
+  marketCap?: number
+  liquidity?: { usd?: number }
+  volume?: { h24?: number }
+  priceChange?: { h24?: number }
+  info?: { imageUrl?: string; websites?: Array<{ url?: string }>; socials?: Array<{ type?: string; url?: string }> }
+  dexId?: string
+  /** Unix milliseconds. */
+  pairCreatedAt?: number
+  txns?: { h24?: { buys?: number; sells?: number } }
+}
+
+export interface TokenMarketHealth {
+  contract: string
+  pairAddress: string
+  pairUrl: string
+  pairCount: number
+  price: number
+  marketCap: number
+  fdv: number
+  liquidity: number
+  volume24h: number
+  priceChange24h: number
+}
+
+function number(value: unknown): number {
+  const parsed = Number(value)
+  return Number.isFinite(parsed) ? parsed : 0
+}
+
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms))
+}
+
+/** Dexscreener chain slugs match ours: solana, robinhood, bsc. */
+async function fetchBatch(addresses: string[], chain = 'solana'): Promise<DexPair[]> {
+  const path = addresses.map(encodeURIComponent).join(',')
+  for (let attempt = 0; attempt < 3; attempt++) {
+    try {
+      const response = await fetch(`${BASE_URL}/tokens/v1/${encodeURIComponent(chain)}/${path}`, {
+        signal: AbortSignal.timeout(15_000),
+      })
+      if (response.status === 429 && attempt < 2) {
+        await sleep(1_000 * 2 ** attempt)
+        continue
+      }
+      if (!response.ok) throw new Error(`Dexscreener API error ${response.status}`)
+      const body = (await response.json()) as unknown
+      return Array.isArray(body) ? (body as DexPair[]) : []
+    } catch (error) {
+      if (attempt === 2) throw error
+      await sleep(1_000 * 2 ** attempt)
+    }
+  }
+  return []
+}
+
+/**
+ * Quote assets a pool must be paired with to be trusted for price, liquidity and volume. Anyone
+ * can open a pool against a token they minted themselves and report any liquidity they like, so
+ * picking the deepest pool outright let spoofed pools set the price: one token showed a $7.2B
+ * market cap and another $72M when their real pools valued them at $438K and $4K.
+ */
+const TRUSTED_QUOTES: Record<string, Set<string>> = {
+  solana: new Set(
+    [
+      'So11111111111111111111111111111111111111112', // SOL
+      'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', // USDC
+      'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', // USDT
+      'USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB', // USD1
+      'DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263', // BONK, the quote for letsbonk launches
+    ].map((address) => address.toLowerCase())
+  ),
+  robinhood: new Set(
+    [
+      '0x0000000000000000000000000000000000000000', // native ETH
+      '0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73', // WETH
+      '0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168', // USDG
+    ].map((address) => address.toLowerCase())
+  ),
+  bsc: new Set(
+    [
+      '0x0000000000000000000000000000000000000000', // native BNB
+      '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c', // WBNB
+      '0x55d398326f99059fF775485246999027B3197955', // USDT
+      '0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d', // USDC
+      '0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d', // USD1
+      '0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409', // FDUSD
+      '0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56', // BUSD
+    ].map((address) => address.toLowerCase())
+  ),
+}
+
+function isTrustedQuote(pair: DexPair, chain: string): boolean {
+  const quote = pair.quoteToken?.address?.toLowerCase()
+  return Boolean(quote && TRUSTED_QUOTES[chain]?.has(quote))
+}
+
+export function selectTokenMarketHealth(
+  contract: string,
+  pairs: DexPair[],
+  chain = 'solana'
+): TokenMarketHealth | null {
+  const contractLower = contract.toLowerCase()
+  const matches = pairs.filter(
+    (pair) =>
+      pair.chainId === chain &&
+      pair.baseToken?.address?.toLowerCase() === contractLower
+  )
+  if (matches.length === 0) return null
+
+  // Only trusted pools count when the token has any. Otherwise every pool does, as before.
+  const trusted = matches.filter((pair) => isTrustedQuote(pair, chain))
+  const pools = trusted.length > 0 ? trusted : matches
+
+  const primary = [...pools].sort(
+    (left, right) => number(right.liquidity?.usd) - number(left.liquidity?.usd)
+  )[0]
+  return {
+    contract,
+    pairAddress: primary.pairAddress ?? '',
+    pairUrl: primary.url ?? `https://dexscreener.com/${chain}/${contract}`,
+    pairCount: matches.length,
+    price: number(primary.priceUsd),
+    marketCap: number(primary.marketCap),
+    fdv: number(primary.fdv),
+    liquidity: pools.reduce((sum, pair) => sum + number(pair.liquidity?.usd), 0),
+    volume24h: pools.reduce((sum, pair) => sum + number(pair.volume?.h24), 0),
+    priceChange24h: number(primary.priceChange?.h24),
+  }
+}
+
+export async function getTokenMarketHealth(
+  chain: string,
+  addresses: string[]
+): Promise<Map<string, TokenMarketHealth>> {
+  const unique = [...new Set(addresses.filter(Boolean))]
+  const result = new Map<string, TokenMarketHealth>()
+  for (let index = 0; index < unique.length; index += MAX_BATCH_SIZE) {
+    const batch = unique.slice(index, index + MAX_BATCH_SIZE)
+    const pairs = await fetchBatch(batch, chain)
+    for (const address of batch) {
+      const health = selectTokenMarketHealth(address, pairs, chain)
+      if (health) result.set(address, health)
+    }
+    if (index + MAX_BATCH_SIZE < unique.length) await sleep(250)
+  }
+  return result
+}
+
+export interface DexTokenInfo {
+  name: string
+  symbol: string
+  imageUrl: string
+}
+
+/**
+ * Name, symbol and logo per token, from the pairs Dexscreener lists for it. Keys are the
+ * addresses as requested: EVM addresses can come back in a different letter case.
+ */
+export async function getTokenInfo(chain: string, addresses: string[]): Promise<Map<string, DexTokenInfo>> {
+  const unique = [...new Set(addresses.filter(Boolean))]
+  const requested = new Map(unique.map((address) => [address.toLowerCase(), address]))
+  const result = new Map<string, DexTokenInfo>()
+  for (let index = 0; index < unique.length; index += MAX_BATCH_SIZE) {
+    const pairs = await fetchBatch(unique.slice(index, index + MAX_BATCH_SIZE), chain)
+    for (const pair of pairs) {
+      const address = requested.get(pair.baseToken?.address?.toLowerCase() ?? '')
+      if (!address || pair.chainId !== chain) continue
+      const existing = result.get(address)
+      if (existing?.imageUrl) continue
+      result.set(address, {
+        name: pair.baseToken?.name || existing?.name || '',
+        symbol: pair.baseToken?.symbol || existing?.symbol || '',
+        imageUrl: pair.info?.imageUrl || '',
+      })
+    }
+    if (index + MAX_BATCH_SIZE < unique.length) await sleep(250)
+  }
+  return result
+}
+
+export function getSolanaTokenMarketHealth(addresses: string[]): Promise<Map<string, TokenMarketHealth>> {
+  return getTokenMarketHealth('solana', addresses)
+}
+
+/** Every pool Dexscreener lists for one token, largest liquidity first. */
+export async function getTokenPairs(chain: string, address: string): Promise<DexPair[]> {
+  const lower = address.toLowerCase()
+  const pairs = (await fetchBatch([address], chain)).filter(
+    (pair) => pair.chainId === chain && pair.baseToken?.address?.toLowerCase() === lower
+  )
+  return pairs.sort((a, b) => number(b.liquidity?.usd) - number(a.liquidity?.usd))
+}
+
+export interface TokenQuote {
+  price: number
+  marketCap: number
+  priceChange24h: number
+  volume24h: number
+  liquidity: number
+  imageUrl: string
+  /** Unix milliseconds of the token's oldest pool. */
+  firstPoolAt: number | null
+}
+
+/**
+ * Live price, market cap and 24h change for many tokens, with images, from one Dexscreener read
+ * per 30 tokens. Keys are the addresses as requested.
+ */
+export async function getTokenQuotes(chain: string, addresses: string[]): Promise<Map<string, TokenQuote>> {
+  const unique = [...new Set(addresses.filter(Boolean))]
+  const result = new Map<string, TokenQuote>()
+  for (let index = 0; index < unique.length; index += MAX_BATCH_SIZE) {
+    const batch = unique.slice(index, index + MAX_BATCH_SIZE)
+    const pairs = await fetchBatch(batch, chain)
+    for (const address of batch) {
+      const health = selectTokenMarketHealth(address, pairs, chain)
+      if (!health) continue
+      const own = pairs.filter((p) => p.chainId === chain && p.baseToken?.address?.toLowerCase() === address.toLowerCase())
+      const created = own.map((p) => number(p.pairCreatedAt)).filter((t) => t > 0)
+      result.set(address, {
+        price: health.price,
+        marketCap: health.marketCap || health.fdv,
+        priceChange24h: health.priceChange24h,
+        volume24h: health.volume24h,
+        liquidity: health.liquidity,
+        imageUrl: own.find((p) => p.info?.imageUrl)?.info?.imageUrl ?? '',
+        firstPoolAt: created.length ? Math.min(...created) : null,
+      })
+    }
+    if (index + MAX_BATCH_SIZE < unique.length) await sleep(250)
+  }
+  return result
+}
